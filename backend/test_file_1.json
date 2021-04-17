@@ -1,0 +1,169 @@
+[mid: "/m/01g317"
+name: "Person"
+score: 0.9211477637290955
+bounding_poly {
+  normalized_vertices {
+    x: 0.32307809591293335
+    y: 0.4471723735332489
+  }
+  normalized_vertices {
+    x: 0.5002201199531555
+    y: 0.4471723735332489
+  }
+  normalized_vertices {
+    x: 0.5002201199531555
+    y: 0.7984892725944519
+  }
+  normalized_vertices {
+    x: 0.32307809591293335
+    y: 0.7984892725944519
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9144286513328552
+bounding_poly {
+  normalized_vertices {
+    x: 0.7563595771789551
+    y: 0.46017956733703613
+  }
+  normalized_vertices {
+    x: 0.9200267195701599
+    y: 0.46017956733703613
+  }
+  normalized_vertices {
+    x: 0.9200267195701599
+    y: 0.8110325932502747
+  }
+  normalized_vertices {
+    x: 0.7563595771789551
+    y: 0.8110325932502747
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9113748669624329
+bounding_poly {
+  normalized_vertices {
+    x: 0.48816290497779846
+    y: 0.43848904967308044
+  }
+  normalized_vertices {
+    x: 0.6646845936775208
+    y: 0.43848904967308044
+  }
+  normalized_vertices {
+    x: 0.6646845936775208
+    y: 0.8152310848236084
+  }
+  normalized_vertices {
+    x: 0.48816290497779846
+    y: 0.8152310848236084
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.904849112033844
+bounding_poly {
+  normalized_vertices {
+    x: 0.6430772542953491
+    y: 0.47301411628723145
+  }
+  normalized_vertices {
+    x: 0.7663593888282776
+    y: 0.47301411628723145
+  }
+  normalized_vertices {
+    x: 0.7663593888282776
+    y: 0.793117105960846
+  }
+  normalized_vertices {
+    x: 0.6430772542953491
+    y: 0.793117105960846
+  }
+}
+, mid: "/m/0hf58v5"
+name: "Luggage & bags"
+score: 0.6310290098190308
+bounding_poly {
+  normalized_vertices {
+    x: 0.01589335687458515
+    y: 0.6296375393867493
+  }
+  normalized_vertices {
+    x: 0.14164553582668304
+    y: 0.6296375393867493
+  }
+  normalized_vertices {
+    x: 0.14164553582668304
+    y: 0.7844724655151367
+  }
+  normalized_vertices {
+    x: 0.01589335687458515
+    y: 0.7844724655151367
+  }
+}
+, mid: "/m/0hf58v5"
+name: "Luggage & bags"
+score: 0.5463253855705261
+bounding_poly {
+  normalized_vertices {
+    x: 0.13206680119037628
+    y: 0.6303991675376892
+  }
+  normalized_vertices {
+    x: 0.2564951479434967
+    y: 0.6303991675376892
+  }
+  normalized_vertices {
+    x: 0.2564951479434967
+    y: 0.7807917594909668
+  }
+  normalized_vertices {
+    x: 0.13206680119037628
+    y: 0.7807917594909668
+  }
+}
+, mid: "/m/03gx245"
+name: "Top"
+score: 0.5275181531906128
+bounding_poly {
+  normalized_vertices {
+    x: 0.649506151676178
+    y: 0.557153582572937
+  }
+  normalized_vertices {
+    x: 0.76512211561203
+    y: 0.557153582572937
+  }
+  normalized_vertices {
+    x: 0.76512211561203
+    y: 0.7048099637031555
+  }
+  normalized_vertices {
+    x: 0.649506151676178
+    y: 0.7048099637031555
+  }
+}
+, mid: "/m/03gx245"
+name: "Top"
+score: 0.5093116164207458
+bounding_poly {
+  normalized_vertices {
+    x: 0.49055346846580505
+    y: 0.5510209202766418
+  }
+  normalized_vertices {
+    x: 0.6026201844215393
+    y: 0.5510209202766418
+  }
+  normalized_vertices {
+    x: 0.6026201844215393
+    y: 0.6833810806274414
+  }
+  normalized_vertices {
+    x: 0.49055346846580505
+    y: 0.6833810806274414
+  }
+}
+]

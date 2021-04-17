@@ -1,0 +1,211 @@
+[mid: "/m/01g317"
+name: "Person"
+score: 0.9284088015556335
+bounding_poly {
+  normalized_vertices {
+    x: 0.7339470386505127
+    y: 0.12428486347198486
+  }
+  normalized_vertices {
+    x: 0.8841855525970459
+    y: 0.12428486347198486
+  }
+  normalized_vertices {
+    x: 0.8841855525970459
+    y: 0.4484943151473999
+  }
+  normalized_vertices {
+    x: 0.7339470386505127
+    y: 0.4484943151473999
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9016048312187195
+bounding_poly {
+  normalized_vertices {
+    x: 0.2935834228992462
+    y: 0.36867520213127136
+  }
+  normalized_vertices {
+    x: 0.4085458815097809
+    y: 0.36867520213127136
+  }
+  normalized_vertices {
+    x: 0.4085458815097809
+    y: 0.6829071044921875
+  }
+  normalized_vertices {
+    x: 0.2935834228992462
+    y: 0.6829071044921875
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8976933360099792
+bounding_poly {
+  normalized_vertices {
+    x: 0.5769045948982239
+    y: 0.12378370761871338
+  }
+  normalized_vertices {
+    x: 0.720648467540741
+    y: 0.12378370761871338
+  }
+  normalized_vertices {
+    x: 0.720648467540741
+    y: 0.4265938699245453
+  }
+  normalized_vertices {
+    x: 0.5769045948982239
+    y: 0.4265938699245453
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8822033405303955
+bounding_poly {
+  normalized_vertices {
+    x: 0.4879268705844879
+    y: 0.2901913821697235
+  }
+  normalized_vertices {
+    x: 0.7927432060241699
+    y: 0.2901913821697235
+  }
+  normalized_vertices {
+    x: 0.7927432060241699
+    y: 0.5745760798454285
+  }
+  normalized_vertices {
+    x: 0.4879268705844879
+    y: 0.5745760798454285
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8603436350822449
+bounding_poly {
+  normalized_vertices {
+    x: 0.6606459021568298
+    y: 0.711786687374115
+  }
+  normalized_vertices {
+    x: 0.7673614025115967
+    y: 0.711786687374115
+  }
+  normalized_vertices {
+    x: 0.7673614025115967
+    y: 0.941978394985199
+  }
+  normalized_vertices {
+    x: 0.6606459021568298
+    y: 0.941978394985199
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8598784804344177
+bounding_poly {
+  normalized_vertices {
+    x: 0.3822658360004425
+    y: 0.371500700712204
+  }
+  normalized_vertices {
+    x: 0.4878816604614258
+    y: 0.371500700712204
+  }
+  normalized_vertices {
+    x: 0.4878816604614258
+    y: 0.6975175738334656
+  }
+  normalized_vertices {
+    x: 0.3822658360004425
+    y: 0.6975175738334656
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8594701886177063
+bounding_poly {
+  normalized_vertices {
+    x: 0.5595149397850037
+    y: 0.7003044486045837
+  }
+  normalized_vertices {
+    x: 0.6971426010131836
+    y: 0.7003044486045837
+  }
+  normalized_vertices {
+    x: 0.6971426010131836
+    y: 0.9751246571540833
+  }
+  normalized_vertices {
+    x: 0.5595149397850037
+    y: 0.9751246571540833
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8583967089653015
+bounding_poly {
+  normalized_vertices {
+    x: 0.8598374724388123
+    y: 0.4154280126094818
+  }
+  normalized_vertices {
+    x: 0.9881224632263184
+    y: 0.4154280126094818
+  }
+  normalized_vertices {
+    x: 0.9881224632263184
+    y: 0.698552668094635
+  }
+  normalized_vertices {
+    x: 0.8598374724388123
+    y: 0.698552668094635
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8555524945259094
+bounding_poly {
+  normalized_vertices {
+    x: 0.0027698304038494825
+    y: 0.7471251487731934
+  }
+  normalized_vertices {
+    x: 0.1145266592502594
+    y: 0.7471251487731934
+  }
+  normalized_vertices {
+    x: 0.1145266592502594
+    y: 0.9762147068977356
+  }
+  normalized_vertices {
+    x: 0.0027698304038494825
+    y: 0.9762147068977356
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8452547788619995
+bounding_poly {
+  normalized_vertices {
+    x: 0.10570850968360901
+    y: 0.8281657099723816
+  }
+  normalized_vertices {
+    x: 0.19310148060321808
+    y: 0.8281657099723816
+  }
+  normalized_vertices {
+    x: 0.19310148060321808
+    y: 0.9901854395866394
+  }
+  normalized_vertices {
+    x: 0.10570850968360901
+    y: 0.9901854395866394
+  }
+}
+]

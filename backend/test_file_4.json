@@ -1,0 +1,211 @@
+[mid: "/m/01g317"
+name: "Person"
+score: 0.9028785228729248
+bounding_poly {
+  normalized_vertices {
+    x: 0.6416633725166321
+    y: 0.32421427965164185
+  }
+  normalized_vertices {
+    x: 0.8035054802894592
+    y: 0.32421427965164185
+  }
+  normalized_vertices {
+    x: 0.8035054802894592
+    y: 0.8045966625213623
+  }
+  normalized_vertices {
+    x: 0.6416633725166321
+    y: 0.8045966625213623
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9022899866104126
+bounding_poly {
+  normalized_vertices {
+    x: 0.4893115758895874
+    y: 0.09784551709890366
+  }
+  normalized_vertices {
+    x: 0.6080673933029175
+    y: 0.09784551709890366
+  }
+  normalized_vertices {
+    x: 0.6080673933029175
+    y: 0.43405354022979736
+  }
+  normalized_vertices {
+    x: 0.4893115758895874
+    y: 0.43405354022979736
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8844975829124451
+bounding_poly {
+  normalized_vertices {
+    x: 0.10466676205396652
+    y: 0.31056004762649536
+  }
+  normalized_vertices {
+    x: 0.25381165742874146
+    y: 0.31056004762649536
+  }
+  normalized_vertices {
+    x: 0.25381165742874146
+    y: 0.8023179173469543
+  }
+  normalized_vertices {
+    x: 0.10466676205396652
+    y: 0.8023179173469543
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8027845025062561
+bounding_poly {
+  normalized_vertices {
+    x: 0.6374018788337708
+    y: 0.3312731087207794
+  }
+  normalized_vertices {
+    x: 0.8053761124610901
+    y: 0.3312731087207794
+  }
+  normalized_vertices {
+    x: 0.8053761124610901
+    y: 0.8109921813011169
+  }
+  normalized_vertices {
+    x: 0.6374018788337708
+    y: 0.8109921813011169
+  }
+}
+, mid: "/m/01rkbr"
+name: "Tie"
+score: 0.6761414408683777
+bounding_poly {
+  normalized_vertices {
+    x: 0.6896548867225647
+    y: 0.41366100311279297
+  }
+  normalized_vertices {
+    x: 0.7445579171180725
+    y: 0.41366100311279297
+  }
+  normalized_vertices {
+    x: 0.7445579171180725
+    y: 0.6109024882316589
+  }
+  normalized_vertices {
+    x: 0.6896548867225647
+    y: 0.6109024882316589
+  }
+}
+, mid: "/m/07mhn"
+name: "Pants"
+score: 0.669390857219696
+bounding_poly {
+  normalized_vertices {
+    x: 0.6416911482810974
+    y: 0.5899814963340759
+  }
+  normalized_vertices {
+    x: 0.769036054611206
+    y: 0.5899814963340759
+  }
+  normalized_vertices {
+    x: 0.769036054611206
+    y: 0.785149872303009
+  }
+  normalized_vertices {
+    x: 0.6416911482810974
+    y: 0.785149872303009
+  }
+}
+, mid: "/m/07mhn"
+name: "Pants"
+score: 0.6397725343704224
+bounding_poly {
+  normalized_vertices {
+    x: 0.5017786026000977
+    y: 0.27696332335472107
+  }
+  normalized_vertices {
+    x: 0.6015163064002991
+    y: 0.27696332335472107
+  }
+  normalized_vertices {
+    x: 0.6015163064002991
+    y: 0.4174603223800659
+  }
+  normalized_vertices {
+    x: 0.5017786026000977
+    y: 0.4174603223800659
+  }
+}
+, mid: "/m/07mhn"
+name: "Pants"
+score: 0.6255258917808533
+bounding_poly {
+  normalized_vertices {
+    x: 0.10753042250871658
+    y: 0.5842143893241882
+  }
+  normalized_vertices {
+    x: 0.23771482706069946
+    y: 0.5842143893241882
+  }
+  normalized_vertices {
+    x: 0.23771482706069946
+    y: 0.7951183319091797
+  }
+  normalized_vertices {
+    x: 0.10753042250871658
+    y: 0.7951183319091797
+  }
+}
+, mid: "/m/047vlmn"
+name: "Outerwear"
+score: 0.608153760433197
+bounding_poly {
+  normalized_vertices {
+    x: 0.4933434724807739
+    y: 0.15239191055297852
+  }
+  normalized_vertices {
+    x: 0.6058242917060852
+    y: 0.15239191055297852
+  }
+  normalized_vertices {
+    x: 0.6058242917060852
+    y: 0.31979626417160034
+  }
+  normalized_vertices {
+    x: 0.4933434724807739
+    y: 0.31979626417160034
+  }
+}
+, mid: "/m/0hf58v5"
+name: "Luggage & bags"
+score: 0.5440865755081177
+bounding_poly {
+  normalized_vertices {
+    x: 0.5829446315765381
+    y: 0.3974777162075043
+  }
+  normalized_vertices {
+    x: 0.6735708713531494
+    y: 0.3974777162075043
+  }
+  normalized_vertices {
+    x: 0.6735708713531494
+    y: 0.5439610481262207
+  }
+  normalized_vertices {
+    x: 0.5829446315765381
+    y: 0.5439610481262207
+  }
+}
+]
