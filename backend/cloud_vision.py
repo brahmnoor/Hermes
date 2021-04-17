@@ -32,11 +32,11 @@ def localize_objects(path):
     newFile = open(newFileName, 'w')
     newFile.writelines(objects.__str__())
     print('Number of objects found: {}'.format(len(objects)))
-    # for object_ in objects:
-    #     print('\n{} (confidence: {})'.format(object_.name, object_.score))
-    #     print('Normalized bounding polygon vertices: ')
-    #     for vertex in object_.bounding_poly.normalized_vertices:
-    #         print(' - ({}, {})'.format(vertex.x, vertex.y))
+    for object_ in objects:
+        print('\n{} (confidence: {})'.format(object_.name, object_.score))
+        print('Normalized bounding polygon vertices: ')
+        for vertex in object_.bounding_poly.normalized_vertices:
+            print(' - ({}, {})'.format(vertex.x, vertex.y))
 
 
 for i in file_list:
