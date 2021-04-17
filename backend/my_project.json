@@ -1,0 +1,4075 @@
+[mid: "/m/01g317"
+name: "Person"
+score: 0.9284088015556335
+bounding_poly {
+  normalized_vertices {
+    x: 0.7339470386505127
+    y: 0.12428486347198486
+  }
+  normalized_vertices {
+    x: 0.8841855525970459
+    y: 0.12428486347198486
+  }
+  normalized_vertices {
+    x: 0.8841855525970459
+    y: 0.4484943151473999
+  }
+  normalized_vertices {
+    x: 0.7339470386505127
+    y: 0.4484943151473999
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9016048312187195
+bounding_poly {
+  normalized_vertices {
+    x: 0.2935834228992462
+    y: 0.36867520213127136
+  }
+  normalized_vertices {
+    x: 0.4085458815097809
+    y: 0.36867520213127136
+  }
+  normalized_vertices {
+    x: 0.4085458815097809
+    y: 0.6829071044921875
+  }
+  normalized_vertices {
+    x: 0.2935834228992462
+    y: 0.6829071044921875
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8976932168006897
+bounding_poly {
+  normalized_vertices {
+    x: 0.5769045948982239
+    y: 0.12378370761871338
+  }
+  normalized_vertices {
+    x: 0.720648467540741
+    y: 0.12378370761871338
+  }
+  normalized_vertices {
+    x: 0.720648467540741
+    y: 0.4265938699245453
+  }
+  normalized_vertices {
+    x: 0.5769045948982239
+    y: 0.4265938699245453
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8822033405303955
+bounding_poly {
+  normalized_vertices {
+    x: 0.4879268705844879
+    y: 0.2901913821697235
+  }
+  normalized_vertices {
+    x: 0.7927432060241699
+    y: 0.2901913821697235
+  }
+  normalized_vertices {
+    x: 0.7927432060241699
+    y: 0.5745760798454285
+  }
+  normalized_vertices {
+    x: 0.4879268705844879
+    y: 0.5745760798454285
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8603436946868896
+bounding_poly {
+  normalized_vertices {
+    x: 0.6606459021568298
+    y: 0.711786687374115
+  }
+  normalized_vertices {
+    x: 0.7673614025115967
+    y: 0.711786687374115
+  }
+  normalized_vertices {
+    x: 0.7673614025115967
+    y: 0.941978394985199
+  }
+  normalized_vertices {
+    x: 0.6606459021568298
+    y: 0.941978394985199
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8598785996437073
+bounding_poly {
+  normalized_vertices {
+    x: 0.3822658360004425
+    y: 0.371500700712204
+  }
+  normalized_vertices {
+    x: 0.4878816604614258
+    y: 0.371500700712204
+  }
+  normalized_vertices {
+    x: 0.4878816604614258
+    y: 0.6975175738334656
+  }
+  normalized_vertices {
+    x: 0.3822658360004425
+    y: 0.6975175738334656
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8594698309898376
+bounding_poly {
+  normalized_vertices {
+    x: 0.5595149397850037
+    y: 0.7003044486045837
+  }
+  normalized_vertices {
+    x: 0.6971426010131836
+    y: 0.7003044486045837
+  }
+  normalized_vertices {
+    x: 0.6971426010131836
+    y: 0.9751246571540833
+  }
+  normalized_vertices {
+    x: 0.5595149397850037
+    y: 0.9751246571540833
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8583967089653015
+bounding_poly {
+  normalized_vertices {
+    x: 0.8598374724388123
+    y: 0.4154280126094818
+  }
+  normalized_vertices {
+    x: 0.9881224632263184
+    y: 0.4154280126094818
+  }
+  normalized_vertices {
+    x: 0.9881224632263184
+    y: 0.698552668094635
+  }
+  normalized_vertices {
+    x: 0.8598374724388123
+    y: 0.698552668094635
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.855552613735199
+bounding_poly {
+  normalized_vertices {
+    x: 0.0027698304038494825
+    y: 0.7471251487731934
+  }
+  normalized_vertices {
+    x: 0.1145266592502594
+    y: 0.7471251487731934
+  }
+  normalized_vertices {
+    x: 0.1145266592502594
+    y: 0.9762147068977356
+  }
+  normalized_vertices {
+    x: 0.0027698304038494825
+    y: 0.9762147068977356
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.84525465965271
+bounding_poly {
+  normalized_vertices {
+    x: 0.10570850968360901
+    y: 0.8281657099723816
+  }
+  normalized_vertices {
+    x: 0.19310148060321808
+    y: 0.8281657099723816
+  }
+  normalized_vertices {
+    x: 0.19310148060321808
+    y: 0.9901854395866394
+  }
+  normalized_vertices {
+    x: 0.10570850968360901
+    y: 0.9901854395866394
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.9284088015556335
+bounding_poly {
+  normalized_vertices {
+    x: 0.7339470386505127
+    y: 0.12428486347198486
+  }
+  normalized_vertices {
+    x: 0.8841855525970459
+    y: 0.12428486347198486
+  }
+  normalized_vertices {
+    x: 0.8841855525970459
+    y: 0.4484943151473999
+  }
+  normalized_vertices {
+    x: 0.7339470386505127
+    y: 0.4484943151473999
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9016048312187195
+bounding_poly {
+  normalized_vertices {
+    x: 0.2935834228992462
+    y: 0.36867520213127136
+  }
+  normalized_vertices {
+    x: 0.4085458815097809
+    y: 0.36867520213127136
+  }
+  normalized_vertices {
+    x: 0.4085458815097809
+    y: 0.6829071044921875
+  }
+  normalized_vertices {
+    x: 0.2935834228992462
+    y: 0.6829071044921875
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8976932168006897
+bounding_poly {
+  normalized_vertices {
+    x: 0.5769045948982239
+    y: 0.12378370761871338
+  }
+  normalized_vertices {
+    x: 0.720648467540741
+    y: 0.12378370761871338
+  }
+  normalized_vertices {
+    x: 0.720648467540741
+    y: 0.4265938699245453
+  }
+  normalized_vertices {
+    x: 0.5769045948982239
+    y: 0.4265938699245453
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8822033405303955
+bounding_poly {
+  normalized_vertices {
+    x: 0.4879268705844879
+    y: 0.2901913821697235
+  }
+  normalized_vertices {
+    x: 0.7927432060241699
+    y: 0.2901913821697235
+  }
+  normalized_vertices {
+    x: 0.7927432060241699
+    y: 0.5745760798454285
+  }
+  normalized_vertices {
+    x: 0.4879268705844879
+    y: 0.5745760798454285
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8603436946868896
+bounding_poly {
+  normalized_vertices {
+    x: 0.6606459021568298
+    y: 0.711786687374115
+  }
+  normalized_vertices {
+    x: 0.7673614025115967
+    y: 0.711786687374115
+  }
+  normalized_vertices {
+    x: 0.7673614025115967
+    y: 0.941978394985199
+  }
+  normalized_vertices {
+    x: 0.6606459021568298
+    y: 0.941978394985199
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8598785996437073
+bounding_poly {
+  normalized_vertices {
+    x: 0.3822658360004425
+    y: 0.371500700712204
+  }
+  normalized_vertices {
+    x: 0.4878816604614258
+    y: 0.371500700712204
+  }
+  normalized_vertices {
+    x: 0.4878816604614258
+    y: 0.6975175738334656
+  }
+  normalized_vertices {
+    x: 0.3822658360004425
+    y: 0.6975175738334656
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8594698309898376
+bounding_poly {
+  normalized_vertices {
+    x: 0.5595149397850037
+    y: 0.7003044486045837
+  }
+  normalized_vertices {
+    x: 0.6971426010131836
+    y: 0.7003044486045837
+  }
+  normalized_vertices {
+    x: 0.6971426010131836
+    y: 0.9751246571540833
+  }
+  normalized_vertices {
+    x: 0.5595149397850037
+    y: 0.9751246571540833
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8583967089653015
+bounding_poly {
+  normalized_vertices {
+    x: 0.8598374724388123
+    y: 0.4154280126094818
+  }
+  normalized_vertices {
+    x: 0.9881224632263184
+    y: 0.4154280126094818
+  }
+  normalized_vertices {
+    x: 0.9881224632263184
+    y: 0.698552668094635
+  }
+  normalized_vertices {
+    x: 0.8598374724388123
+    y: 0.698552668094635
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.855552613735199
+bounding_poly {
+  normalized_vertices {
+    x: 0.0027698304038494825
+    y: 0.7471251487731934
+  }
+  normalized_vertices {
+    x: 0.1145266592502594
+    y: 0.7471251487731934
+  }
+  normalized_vertices {
+    x: 0.1145266592502594
+    y: 0.9762147068977356
+  }
+  normalized_vertices {
+    x: 0.0027698304038494825
+    y: 0.9762147068977356
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.84525465965271
+bounding_poly {
+  normalized_vertices {
+    x: 0.10570850968360901
+    y: 0.8281657099723816
+  }
+  normalized_vertices {
+    x: 0.19310148060321808
+    y: 0.8281657099723816
+  }
+  normalized_vertices {
+    x: 0.19310148060321808
+    y: 0.9901854395866394
+  }
+  normalized_vertices {
+    x: 0.10570850968360901
+    y: 0.9901854395866394
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.9211477637290955
+bounding_poly {
+  normalized_vertices {
+    x: 0.32307809591293335
+    y: 0.4471723735332489
+  }
+  normalized_vertices {
+    x: 0.5002201199531555
+    y: 0.4471723735332489
+  }
+  normalized_vertices {
+    x: 0.5002201199531555
+    y: 0.7984892725944519
+  }
+  normalized_vertices {
+    x: 0.32307809591293335
+    y: 0.7984892725944519
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9144286513328552
+bounding_poly {
+  normalized_vertices {
+    x: 0.7563595771789551
+    y: 0.46017956733703613
+  }
+  normalized_vertices {
+    x: 0.9200267195701599
+    y: 0.46017956733703613
+  }
+  normalized_vertices {
+    x: 0.9200267195701599
+    y: 0.8110325932502747
+  }
+  normalized_vertices {
+    x: 0.7563595771789551
+    y: 0.8110325932502747
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9113748669624329
+bounding_poly {
+  normalized_vertices {
+    x: 0.48816290497779846
+    y: 0.43848904967308044
+  }
+  normalized_vertices {
+    x: 0.6646845936775208
+    y: 0.43848904967308044
+  }
+  normalized_vertices {
+    x: 0.6646845936775208
+    y: 0.8152310848236084
+  }
+  normalized_vertices {
+    x: 0.48816290497779846
+    y: 0.8152310848236084
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.904849112033844
+bounding_poly {
+  normalized_vertices {
+    x: 0.6430772542953491
+    y: 0.47301411628723145
+  }
+  normalized_vertices {
+    x: 0.7663593888282776
+    y: 0.47301411628723145
+  }
+  normalized_vertices {
+    x: 0.7663593888282776
+    y: 0.793117105960846
+  }
+  normalized_vertices {
+    x: 0.6430772542953491
+    y: 0.793117105960846
+  }
+}
+, mid: "/m/0hf58v5"
+name: "Luggage & bags"
+score: 0.6310290098190308
+bounding_poly {
+  normalized_vertices {
+    x: 0.01589335687458515
+    y: 0.6296375393867493
+  }
+  normalized_vertices {
+    x: 0.14164553582668304
+    y: 0.6296375393867493
+  }
+  normalized_vertices {
+    x: 0.14164553582668304
+    y: 0.7844724655151367
+  }
+  normalized_vertices {
+    x: 0.01589335687458515
+    y: 0.7844724655151367
+  }
+}
+, mid: "/m/0hf58v5"
+name: "Luggage & bags"
+score: 0.5463253855705261
+bounding_poly {
+  normalized_vertices {
+    x: 0.13206680119037628
+    y: 0.6303991675376892
+  }
+  normalized_vertices {
+    x: 0.2564951479434967
+    y: 0.6303991675376892
+  }
+  normalized_vertices {
+    x: 0.2564951479434967
+    y: 0.7807917594909668
+  }
+  normalized_vertices {
+    x: 0.13206680119037628
+    y: 0.7807917594909668
+  }
+}
+, mid: "/m/03gx245"
+name: "Top"
+score: 0.5275181531906128
+bounding_poly {
+  normalized_vertices {
+    x: 0.649506151676178
+    y: 0.557153582572937
+  }
+  normalized_vertices {
+    x: 0.76512211561203
+    y: 0.557153582572937
+  }
+  normalized_vertices {
+    x: 0.76512211561203
+    y: 0.7048099637031555
+  }
+  normalized_vertices {
+    x: 0.649506151676178
+    y: 0.7048099637031555
+  }
+}
+, mid: "/m/03gx245"
+name: "Top"
+score: 0.5093116164207458
+bounding_poly {
+  normalized_vertices {
+    x: 0.49055346846580505
+    y: 0.5510209202766418
+  }
+  normalized_vertices {
+    x: 0.6026201844215393
+    y: 0.5510209202766418
+  }
+  normalized_vertices {
+    x: 0.6026201844215393
+    y: 0.6833810806274414
+  }
+  normalized_vertices {
+    x: 0.49055346846580505
+    y: 0.6833810806274414
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.8927019238471985
+bounding_poly {
+  normalized_vertices {
+    x: 0.7406347393989563
+    y: 0.5089831948280334
+  }
+  normalized_vertices {
+    x: 0.8268771171569824
+    y: 0.5089831948280334
+  }
+  normalized_vertices {
+    x: 0.8268771171569824
+    y: 0.9895668625831604
+  }
+  normalized_vertices {
+    x: 0.7406347393989563
+    y: 0.9895668625831604
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8344775438308716
+bounding_poly {
+  normalized_vertices {
+    x: 0.11107096821069717
+    y: 0.5095019936561584
+  }
+  normalized_vertices {
+    x: 0.2156357765197754
+    y: 0.5095019936561584
+  }
+  normalized_vertices {
+    x: 0.2156357765197754
+    y: 0.8516090512275696
+  }
+  normalized_vertices {
+    x: 0.11107096821069717
+    y: 0.8516090512275696
+  }
+}
+, mid: "/m/09j2d"
+name: "Clothing"
+score: 0.6798856854438782
+bounding_poly {
+  normalized_vertices {
+    x: 0.7514182925224304
+    y: 0.7230973839759827
+  }
+  normalized_vertices {
+    x: 0.8180420398712158
+    y: 0.7230973839759827
+  }
+  normalized_vertices {
+    x: 0.8180420398712158
+    y: 0.9749312400817871
+  }
+  normalized_vertices {
+    x: 0.7514182925224304
+    y: 0.9749312400817871
+  }
+}
+, mid: "/m/01mzpv"
+name: "Chair"
+score: 0.66233891248703
+bounding_poly {
+  normalized_vertices {
+    x: 0.7942838072776794
+    y: 0.8187418580055237
+  }
+  normalized_vertices {
+    x: 0.8805705904960632
+    y: 0.8187418580055237
+  }
+  normalized_vertices {
+    x: 0.8805705904960632
+    y: 0.9884923100471497
+  }
+  normalized_vertices {
+    x: 0.7942838072776794
+    y: 0.9884923100471497
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.6052244901657104
+bounding_poly {
+  normalized_vertices {
+    x: 0.11994454264640808
+    y: 0.5153398513793945
+  }
+  normalized_vertices {
+    x: 0.2200084775686264
+    y: 0.5153398513793945
+  }
+  normalized_vertices {
+    x: 0.2200084775686264
+    y: 0.8439779281616211
+  }
+  normalized_vertices {
+    x: 0.11994454264640808
+    y: 0.8439779281616211
+  }
+}
+, mid: "/m/01mzpv"
+name: "Chair"
+score: 0.5775213241577148
+bounding_poly {
+  normalized_vertices {
+    x: 0.8771130442619324
+    y: 0.8214177489280701
+  }
+  normalized_vertices {
+    x: 0.9634698033332825
+    y: 0.8214177489280701
+  }
+  normalized_vertices {
+    x: 0.9634698033332825
+    y: 0.989621102809906
+  }
+  normalized_vertices {
+    x: 0.8771130442619324
+    y: 0.989621102809906
+  }
+}
+, mid: "/m/09j2d"
+name: "Clothing"
+score: 0.5738433599472046
+bounding_poly {
+  normalized_vertices {
+    x: 0.13150885701179504
+    y: 0.5781614184379578
+  }
+  normalized_vertices {
+    x: 0.21492499113082886
+    y: 0.5781614184379578
+  }
+  normalized_vertices {
+    x: 0.21492499113082886
+    y: 0.813215434551239
+  }
+  normalized_vertices {
+    x: 0.13150885701179504
+    y: 0.813215434551239
+  }
+}
+, mid: "/m/09j2d"
+name: "Clothing"
+score: 0.5420029759407043
+bounding_poly {
+  normalized_vertices {
+    x: 0.7541906237602234
+    y: 0.5832074880599976
+  }
+  normalized_vertices {
+    x: 0.826610803604126
+    y: 0.5832074880599976
+  }
+  normalized_vertices {
+    x: 0.826610803604126
+    y: 0.7210307121276855
+  }
+  normalized_vertices {
+    x: 0.7541906237602234
+    y: 0.7210307121276855
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.8657755255699158
+bounding_poly {
+  normalized_vertices {
+    x: 0.2713715732097626
+    y: 0.482057124376297
+  }
+  normalized_vertices {
+    x: 0.4040820300579071
+    y: 0.482057124376297
+  }
+  normalized_vertices {
+    x: 0.4040820300579071
+    y: 0.8041432499885559
+  }
+  normalized_vertices {
+    x: 0.2713715732097626
+    y: 0.8041432499885559
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8569633364677429
+bounding_poly {
+  normalized_vertices {
+    x: 0.1955355554819107
+    y: 0.2471475750207901
+  }
+  normalized_vertices {
+    x: 0.31276968121528625
+    y: 0.2471475750207901
+  }
+  normalized_vertices {
+    x: 0.31276968121528625
+    y: 0.634826123714447
+  }
+  normalized_vertices {
+    x: 0.1955355554819107
+    y: 0.634826123714447
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8561521172523499
+bounding_poly {
+  normalized_vertices {
+    x: 0.5428206324577332
+    y: 0.4892279803752899
+  }
+  normalized_vertices {
+    x: 0.6543083786964417
+    y: 0.4892279803752899
+  }
+  normalized_vertices {
+    x: 0.6543083786964417
+    y: 0.9812221527099609
+  }
+  normalized_vertices {
+    x: 0.5428206324577332
+    y: 0.9812221527099609
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8558022379875183
+bounding_poly {
+  normalized_vertices {
+    x: 0.8763642907142639
+    y: 0.5231730341911316
+  }
+  normalized_vertices {
+    x: 0.9663116335868835
+    y: 0.5231730341911316
+  }
+  normalized_vertices {
+    x: 0.9663116335868835
+    y: 0.9963503479957581
+  }
+  normalized_vertices {
+    x: 0.8763642907142639
+    y: 0.9963503479957581
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8553149700164795
+bounding_poly {
+  normalized_vertices {
+    x: 0.45114922523498535
+    y: 0.4882088899612427
+  }
+  normalized_vertices {
+    x: 0.5648989081382751
+    y: 0.4882088899612427
+  }
+  normalized_vertices {
+    x: 0.5648989081382751
+    y: 0.9826100468635559
+  }
+  normalized_vertices {
+    x: 0.45114922523498535
+    y: 0.9826100468635559
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8431600332260132
+bounding_poly {
+  normalized_vertices {
+    x: 0.05708043649792671
+    y: 0.004113632719963789
+  }
+  normalized_vertices {
+    x: 0.1361641138792038
+    y: 0.004113632719963789
+  }
+  normalized_vertices {
+    x: 0.1361641138792038
+    y: 0.3087773025035858
+  }
+  normalized_vertices {
+    x: 0.05708043649792671
+    y: 0.3087773025035858
+  }
+}
+, mid: "/m/0fly7"
+name: "Jeans"
+score: 0.7426470518112183
+bounding_poly {
+  normalized_vertices {
+    x: 0.23268423974514008
+    y: 0.39950478076934814
+  }
+  normalized_vertices {
+    x: 0.30454567074775696
+    y: 0.39950478076934814
+  }
+  normalized_vertices {
+    x: 0.30454567074775696
+    y: 0.6319451928138733
+  }
+  normalized_vertices {
+    x: 0.23268423974514008
+    y: 0.6319451928138733
+  }
+}
+, mid: "/m/0fly7"
+name: "Jeans"
+score: 0.7221633791923523
+bounding_poly {
+  normalized_vertices {
+    x: 0.44819745421409607
+    y: 0.7449951171875
+  }
+  normalized_vertices {
+    x: 0.5383251905441284
+    y: 0.7449951171875
+  }
+  normalized_vertices {
+    x: 0.5383251905441284
+    y: 0.9804815649986267
+  }
+  normalized_vertices {
+    x: 0.44819745421409607
+    y: 0.9804815649986267
+  }
+}
+, mid: "/m/0fly7"
+name: "Jeans"
+score: 0.705562174320221
+bounding_poly {
+  normalized_vertices {
+    x: 0.5536800026893616
+    y: 0.7497696876525879
+  }
+  normalized_vertices {
+    x: 0.6424573659896851
+    y: 0.7497696876525879
+  }
+  normalized_vertices {
+    x: 0.6424573659896851
+    y: 0.9799671769142151
+  }
+  normalized_vertices {
+    x: 0.5536800026893616
+    y: 0.9799671769142151
+  }
+}
+, mid: "/m/09j2d"
+name: "Clothing"
+score: 0.6287863850593567
+bounding_poly {
+  normalized_vertices {
+    x: 0.45890653133392334
+    y: 0.5504578948020935
+  }
+  normalized_vertices {
+    x: 0.5571916699409485
+    y: 0.5504578948020935
+  }
+  normalized_vertices {
+    x: 0.5571916699409485
+    y: 0.754627525806427
+  }
+  normalized_vertices {
+    x: 0.45890653133392334
+    y: 0.754627525806427
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.9028786420822144
+bounding_poly {
+  normalized_vertices {
+    x: 0.6416633725166321
+    y: 0.32421427965164185
+  }
+  normalized_vertices {
+    x: 0.8035054802894592
+    y: 0.32421427965164185
+  }
+  normalized_vertices {
+    x: 0.8035054802894592
+    y: 0.8045966625213623
+  }
+  normalized_vertices {
+    x: 0.6416633725166321
+    y: 0.8045966625213623
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9022899866104126
+bounding_poly {
+  normalized_vertices {
+    x: 0.4893115758895874
+    y: 0.09784551709890366
+  }
+  normalized_vertices {
+    x: 0.6080673933029175
+    y: 0.09784551709890366
+  }
+  normalized_vertices {
+    x: 0.6080673933029175
+    y: 0.43405354022979736
+  }
+  normalized_vertices {
+    x: 0.4893115758895874
+    y: 0.43405354022979736
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8844975829124451
+bounding_poly {
+  normalized_vertices {
+    x: 0.10466676205396652
+    y: 0.31056004762649536
+  }
+  normalized_vertices {
+    x: 0.25381165742874146
+    y: 0.31056004762649536
+  }
+  normalized_vertices {
+    x: 0.25381165742874146
+    y: 0.8023179173469543
+  }
+  normalized_vertices {
+    x: 0.10466676205396652
+    y: 0.8023179173469543
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8027843236923218
+bounding_poly {
+  normalized_vertices {
+    x: 0.6374018788337708
+    y: 0.3312731087207794
+  }
+  normalized_vertices {
+    x: 0.8053761124610901
+    y: 0.3312731087207794
+  }
+  normalized_vertices {
+    x: 0.8053761124610901
+    y: 0.8109921813011169
+  }
+  normalized_vertices {
+    x: 0.6374018788337708
+    y: 0.8109921813011169
+  }
+}
+, mid: "/m/01rkbr"
+name: "Tie"
+score: 0.6761414408683777
+bounding_poly {
+  normalized_vertices {
+    x: 0.6896548867225647
+    y: 0.41366100311279297
+  }
+  normalized_vertices {
+    x: 0.7445579171180725
+    y: 0.41366100311279297
+  }
+  normalized_vertices {
+    x: 0.7445579171180725
+    y: 0.6109024882316589
+  }
+  normalized_vertices {
+    x: 0.6896548867225647
+    y: 0.6109024882316589
+  }
+}
+, mid: "/m/07mhn"
+name: "Pants"
+score: 0.6693910956382751
+bounding_poly {
+  normalized_vertices {
+    x: 0.6416911482810974
+    y: 0.5899814963340759
+  }
+  normalized_vertices {
+    x: 0.769036054611206
+    y: 0.5899814963340759
+  }
+  normalized_vertices {
+    x: 0.769036054611206
+    y: 0.785149872303009
+  }
+  normalized_vertices {
+    x: 0.6416911482810974
+    y: 0.785149872303009
+  }
+}
+, mid: "/m/07mhn"
+name: "Pants"
+score: 0.6397725343704224
+bounding_poly {
+  normalized_vertices {
+    x: 0.5017786026000977
+    y: 0.27696332335472107
+  }
+  normalized_vertices {
+    x: 0.6015163064002991
+    y: 0.27696332335472107
+  }
+  normalized_vertices {
+    x: 0.6015163064002991
+    y: 0.4174603223800659
+  }
+  normalized_vertices {
+    x: 0.5017786026000977
+    y: 0.4174603223800659
+  }
+}
+, mid: "/m/07mhn"
+name: "Pants"
+score: 0.6255258917808533
+bounding_poly {
+  normalized_vertices {
+    x: 0.10753042250871658
+    y: 0.5842143893241882
+  }
+  normalized_vertices {
+    x: 0.23771482706069946
+    y: 0.5842143893241882
+  }
+  normalized_vertices {
+    x: 0.23771482706069946
+    y: 0.7951183319091797
+  }
+  normalized_vertices {
+    x: 0.10753042250871658
+    y: 0.7951183319091797
+  }
+}
+, mid: "/m/047vlmn"
+name: "Outerwear"
+score: 0.608153760433197
+bounding_poly {
+  normalized_vertices {
+    x: 0.4933434724807739
+    y: 0.15239191055297852
+  }
+  normalized_vertices {
+    x: 0.6058242917060852
+    y: 0.15239191055297852
+  }
+  normalized_vertices {
+    x: 0.6058242917060852
+    y: 0.31979626417160034
+  }
+  normalized_vertices {
+    x: 0.4933434724807739
+    y: 0.31979626417160034
+  }
+}
+, mid: "/m/0hf58v5"
+name: "Luggage & bags"
+score: 0.5440865755081177
+bounding_poly {
+  normalized_vertices {
+    x: 0.5829446315765381
+    y: 0.3974777162075043
+  }
+  normalized_vertices {
+    x: 0.6735708713531494
+    y: 0.3974777162075043
+  }
+  normalized_vertices {
+    x: 0.6735708713531494
+    y: 0.5439610481262207
+  }
+  normalized_vertices {
+    x: 0.5829446315765381
+    y: 0.5439610481262207
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.9284088015556335
+bounding_poly {
+  normalized_vertices {
+    x: 0.7339470386505127
+    y: 0.12428486347198486
+  }
+  normalized_vertices {
+    x: 0.8841855525970459
+    y: 0.12428486347198486
+  }
+  normalized_vertices {
+    x: 0.8841855525970459
+    y: 0.4484943151473999
+  }
+  normalized_vertices {
+    x: 0.7339470386505127
+    y: 0.4484943151473999
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9016048312187195
+bounding_poly {
+  normalized_vertices {
+    x: 0.2935834228992462
+    y: 0.36867520213127136
+  }
+  normalized_vertices {
+    x: 0.4085458815097809
+    y: 0.36867520213127136
+  }
+  normalized_vertices {
+    x: 0.4085458815097809
+    y: 0.6829071044921875
+  }
+  normalized_vertices {
+    x: 0.2935834228992462
+    y: 0.6829071044921875
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8976933360099792
+bounding_poly {
+  normalized_vertices {
+    x: 0.5769045948982239
+    y: 0.12378370761871338
+  }
+  normalized_vertices {
+    x: 0.720648467540741
+    y: 0.12378370761871338
+  }
+  normalized_vertices {
+    x: 0.720648467540741
+    y: 0.4265938699245453
+  }
+  normalized_vertices {
+    x: 0.5769045948982239
+    y: 0.4265938699245453
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8822033405303955
+bounding_poly {
+  normalized_vertices {
+    x: 0.4879268705844879
+    y: 0.2901913821697235
+  }
+  normalized_vertices {
+    x: 0.7927432060241699
+    y: 0.2901913821697235
+  }
+  normalized_vertices {
+    x: 0.7927432060241699
+    y: 0.5745760798454285
+  }
+  normalized_vertices {
+    x: 0.4879268705844879
+    y: 0.5745760798454285
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8603436350822449
+bounding_poly {
+  normalized_vertices {
+    x: 0.6606459021568298
+    y: 0.711786687374115
+  }
+  normalized_vertices {
+    x: 0.7673614025115967
+    y: 0.711786687374115
+  }
+  normalized_vertices {
+    x: 0.7673614025115967
+    y: 0.941978394985199
+  }
+  normalized_vertices {
+    x: 0.6606459021568298
+    y: 0.941978394985199
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8598784804344177
+bounding_poly {
+  normalized_vertices {
+    x: 0.3822658360004425
+    y: 0.371500700712204
+  }
+  normalized_vertices {
+    x: 0.4878816604614258
+    y: 0.371500700712204
+  }
+  normalized_vertices {
+    x: 0.4878816604614258
+    y: 0.6975175738334656
+  }
+  normalized_vertices {
+    x: 0.3822658360004425
+    y: 0.6975175738334656
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8594701886177063
+bounding_poly {
+  normalized_vertices {
+    x: 0.5595149397850037
+    y: 0.7003044486045837
+  }
+  normalized_vertices {
+    x: 0.6971426010131836
+    y: 0.7003044486045837
+  }
+  normalized_vertices {
+    x: 0.6971426010131836
+    y: 0.9751246571540833
+  }
+  normalized_vertices {
+    x: 0.5595149397850037
+    y: 0.9751246571540833
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8583967089653015
+bounding_poly {
+  normalized_vertices {
+    x: 0.8598374724388123
+    y: 0.4154280126094818
+  }
+  normalized_vertices {
+    x: 0.9881224632263184
+    y: 0.4154280126094818
+  }
+  normalized_vertices {
+    x: 0.9881224632263184
+    y: 0.698552668094635
+  }
+  normalized_vertices {
+    x: 0.8598374724388123
+    y: 0.698552668094635
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8555524945259094
+bounding_poly {
+  normalized_vertices {
+    x: 0.0027698304038494825
+    y: 0.7471251487731934
+  }
+  normalized_vertices {
+    x: 0.1145266592502594
+    y: 0.7471251487731934
+  }
+  normalized_vertices {
+    x: 0.1145266592502594
+    y: 0.9762147068977356
+  }
+  normalized_vertices {
+    x: 0.0027698304038494825
+    y: 0.9762147068977356
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8452547788619995
+bounding_poly {
+  normalized_vertices {
+    x: 0.10570850968360901
+    y: 0.8281657099723816
+  }
+  normalized_vertices {
+    x: 0.19310148060321808
+    y: 0.8281657099723816
+  }
+  normalized_vertices {
+    x: 0.19310148060321808
+    y: 0.9901854395866394
+  }
+  normalized_vertices {
+    x: 0.10570850968360901
+    y: 0.9901854395866394
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.9211477637290955
+bounding_poly {
+  normalized_vertices {
+    x: 0.32307809591293335
+    y: 0.4471723735332489
+  }
+  normalized_vertices {
+    x: 0.5002201199531555
+    y: 0.4471723735332489
+  }
+  normalized_vertices {
+    x: 0.5002201199531555
+    y: 0.7984892725944519
+  }
+  normalized_vertices {
+    x: 0.32307809591293335
+    y: 0.7984892725944519
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9144286513328552
+bounding_poly {
+  normalized_vertices {
+    x: 0.7563595771789551
+    y: 0.46017956733703613
+  }
+  normalized_vertices {
+    x: 0.9200267195701599
+    y: 0.46017956733703613
+  }
+  normalized_vertices {
+    x: 0.9200267195701599
+    y: 0.8110325932502747
+  }
+  normalized_vertices {
+    x: 0.7563595771789551
+    y: 0.8110325932502747
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9113748669624329
+bounding_poly {
+  normalized_vertices {
+    x: 0.48816290497779846
+    y: 0.43848904967308044
+  }
+  normalized_vertices {
+    x: 0.6646845936775208
+    y: 0.43848904967308044
+  }
+  normalized_vertices {
+    x: 0.6646845936775208
+    y: 0.8152310848236084
+  }
+  normalized_vertices {
+    x: 0.48816290497779846
+    y: 0.8152310848236084
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.904849112033844
+bounding_poly {
+  normalized_vertices {
+    x: 0.6430772542953491
+    y: 0.47301411628723145
+  }
+  normalized_vertices {
+    x: 0.7663593888282776
+    y: 0.47301411628723145
+  }
+  normalized_vertices {
+    x: 0.7663593888282776
+    y: 0.793117105960846
+  }
+  normalized_vertices {
+    x: 0.6430772542953491
+    y: 0.793117105960846
+  }
+}
+, mid: "/m/0hf58v5"
+name: "Luggage & bags"
+score: 0.6310290098190308
+bounding_poly {
+  normalized_vertices {
+    x: 0.01589335687458515
+    y: 0.6296375393867493
+  }
+  normalized_vertices {
+    x: 0.14164553582668304
+    y: 0.6296375393867493
+  }
+  normalized_vertices {
+    x: 0.14164553582668304
+    y: 0.7844724655151367
+  }
+  normalized_vertices {
+    x: 0.01589335687458515
+    y: 0.7844724655151367
+  }
+}
+, mid: "/m/0hf58v5"
+name: "Luggage & bags"
+score: 0.5463253855705261
+bounding_poly {
+  normalized_vertices {
+    x: 0.13206680119037628
+    y: 0.6303991675376892
+  }
+  normalized_vertices {
+    x: 0.2564951479434967
+    y: 0.6303991675376892
+  }
+  normalized_vertices {
+    x: 0.2564951479434967
+    y: 0.7807917594909668
+  }
+  normalized_vertices {
+    x: 0.13206680119037628
+    y: 0.7807917594909668
+  }
+}
+, mid: "/m/03gx245"
+name: "Top"
+score: 0.5275181531906128
+bounding_poly {
+  normalized_vertices {
+    x: 0.649506151676178
+    y: 0.557153582572937
+  }
+  normalized_vertices {
+    x: 0.76512211561203
+    y: 0.557153582572937
+  }
+  normalized_vertices {
+    x: 0.76512211561203
+    y: 0.7048099637031555
+  }
+  normalized_vertices {
+    x: 0.649506151676178
+    y: 0.7048099637031555
+  }
+}
+, mid: "/m/03gx245"
+name: "Top"
+score: 0.5093116164207458
+bounding_poly {
+  normalized_vertices {
+    x: 0.49055346846580505
+    y: 0.5510209202766418
+  }
+  normalized_vertices {
+    x: 0.6026201844215393
+    y: 0.5510209202766418
+  }
+  normalized_vertices {
+    x: 0.6026201844215393
+    y: 0.6833810806274414
+  }
+  normalized_vertices {
+    x: 0.49055346846580505
+    y: 0.6833810806274414
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.8927019238471985
+bounding_poly {
+  normalized_vertices {
+    x: 0.7406347393989563
+    y: 0.5089831948280334
+  }
+  normalized_vertices {
+    x: 0.8268771171569824
+    y: 0.5089831948280334
+  }
+  normalized_vertices {
+    x: 0.8268771171569824
+    y: 0.9895668625831604
+  }
+  normalized_vertices {
+    x: 0.7406347393989563
+    y: 0.9895668625831604
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8344775438308716
+bounding_poly {
+  normalized_vertices {
+    x: 0.11107096821069717
+    y: 0.5095019936561584
+  }
+  normalized_vertices {
+    x: 0.2156357765197754
+    y: 0.5095019936561584
+  }
+  normalized_vertices {
+    x: 0.2156357765197754
+    y: 0.8516090512275696
+  }
+  normalized_vertices {
+    x: 0.11107096821069717
+    y: 0.8516090512275696
+  }
+}
+, mid: "/m/09j2d"
+name: "Clothing"
+score: 0.6798859238624573
+bounding_poly {
+  normalized_vertices {
+    x: 0.7514182925224304
+    y: 0.7230973839759827
+  }
+  normalized_vertices {
+    x: 0.8180420398712158
+    y: 0.7230973839759827
+  }
+  normalized_vertices {
+    x: 0.8180420398712158
+    y: 0.9749312400817871
+  }
+  normalized_vertices {
+    x: 0.7514182925224304
+    y: 0.9749312400817871
+  }
+}
+, mid: "/m/01mzpv"
+name: "Chair"
+score: 0.66233891248703
+bounding_poly {
+  normalized_vertices {
+    x: 0.7942838072776794
+    y: 0.8187418580055237
+  }
+  normalized_vertices {
+    x: 0.8805705904960632
+    y: 0.8187418580055237
+  }
+  normalized_vertices {
+    x: 0.8805705904960632
+    y: 0.9884923100471497
+  }
+  normalized_vertices {
+    x: 0.7942838072776794
+    y: 0.9884923100471497
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.6052247881889343
+bounding_poly {
+  normalized_vertices {
+    x: 0.11994454264640808
+    y: 0.5153398513793945
+  }
+  normalized_vertices {
+    x: 0.2200084775686264
+    y: 0.5153398513793945
+  }
+  normalized_vertices {
+    x: 0.2200084775686264
+    y: 0.8439779281616211
+  }
+  normalized_vertices {
+    x: 0.11994454264640808
+    y: 0.8439779281616211
+  }
+}
+, mid: "/m/01mzpv"
+name: "Chair"
+score: 0.5775221586227417
+bounding_poly {
+  normalized_vertices {
+    x: 0.8771130442619324
+    y: 0.8214177489280701
+  }
+  normalized_vertices {
+    x: 0.9634698033332825
+    y: 0.8214177489280701
+  }
+  normalized_vertices {
+    x: 0.9634698033332825
+    y: 0.989621102809906
+  }
+  normalized_vertices {
+    x: 0.8771130442619324
+    y: 0.989621102809906
+  }
+}
+, mid: "/m/09j2d"
+name: "Clothing"
+score: 0.5738433599472046
+bounding_poly {
+  normalized_vertices {
+    x: 0.13150885701179504
+    y: 0.5781614184379578
+  }
+  normalized_vertices {
+    x: 0.21492499113082886
+    y: 0.5781614184379578
+  }
+  normalized_vertices {
+    x: 0.21492499113082886
+    y: 0.813215434551239
+  }
+  normalized_vertices {
+    x: 0.13150885701179504
+    y: 0.813215434551239
+  }
+}
+, mid: "/m/09j2d"
+name: "Clothing"
+score: 0.5420029759407043
+bounding_poly {
+  normalized_vertices {
+    x: 0.7541906237602234
+    y: 0.5832074880599976
+  }
+  normalized_vertices {
+    x: 0.826610803604126
+    y: 0.5832074880599976
+  }
+  normalized_vertices {
+    x: 0.826610803604126
+    y: 0.7210307121276855
+  }
+  normalized_vertices {
+    x: 0.7541906237602234
+    y: 0.7210307121276855
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.8657755255699158
+bounding_poly {
+  normalized_vertices {
+    x: 0.2713715732097626
+    y: 0.482057124376297
+  }
+  normalized_vertices {
+    x: 0.4040820300579071
+    y: 0.482057124376297
+  }
+  normalized_vertices {
+    x: 0.4040820300579071
+    y: 0.8041432499885559
+  }
+  normalized_vertices {
+    x: 0.2713715732097626
+    y: 0.8041432499885559
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8569633364677429
+bounding_poly {
+  normalized_vertices {
+    x: 0.1955355554819107
+    y: 0.2471475750207901
+  }
+  normalized_vertices {
+    x: 0.31276968121528625
+    y: 0.2471475750207901
+  }
+  normalized_vertices {
+    x: 0.31276968121528625
+    y: 0.634826123714447
+  }
+  normalized_vertices {
+    x: 0.1955355554819107
+    y: 0.634826123714447
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8561521172523499
+bounding_poly {
+  normalized_vertices {
+    x: 0.5428206324577332
+    y: 0.4892279803752899
+  }
+  normalized_vertices {
+    x: 0.6543083786964417
+    y: 0.4892279803752899
+  }
+  normalized_vertices {
+    x: 0.6543083786964417
+    y: 0.9812221527099609
+  }
+  normalized_vertices {
+    x: 0.5428206324577332
+    y: 0.9812221527099609
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8558022379875183
+bounding_poly {
+  normalized_vertices {
+    x: 0.8763642907142639
+    y: 0.5231730341911316
+  }
+  normalized_vertices {
+    x: 0.9663116335868835
+    y: 0.5231730341911316
+  }
+  normalized_vertices {
+    x: 0.9663116335868835
+    y: 0.9963503479957581
+  }
+  normalized_vertices {
+    x: 0.8763642907142639
+    y: 0.9963503479957581
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8553149700164795
+bounding_poly {
+  normalized_vertices {
+    x: 0.45114922523498535
+    y: 0.4882088899612427
+  }
+  normalized_vertices {
+    x: 0.5648989081382751
+    y: 0.4882088899612427
+  }
+  normalized_vertices {
+    x: 0.5648989081382751
+    y: 0.9826100468635559
+  }
+  normalized_vertices {
+    x: 0.45114922523498535
+    y: 0.9826100468635559
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8431600332260132
+bounding_poly {
+  normalized_vertices {
+    x: 0.05708043649792671
+    y: 0.004113632719963789
+  }
+  normalized_vertices {
+    x: 0.1361641138792038
+    y: 0.004113632719963789
+  }
+  normalized_vertices {
+    x: 0.1361641138792038
+    y: 0.3087773025035858
+  }
+  normalized_vertices {
+    x: 0.05708043649792671
+    y: 0.3087773025035858
+  }
+}
+, mid: "/m/0fly7"
+name: "Jeans"
+score: 0.7426470518112183
+bounding_poly {
+  normalized_vertices {
+    x: 0.23268423974514008
+    y: 0.39950478076934814
+  }
+  normalized_vertices {
+    x: 0.30454567074775696
+    y: 0.39950478076934814
+  }
+  normalized_vertices {
+    x: 0.30454567074775696
+    y: 0.6319451928138733
+  }
+  normalized_vertices {
+    x: 0.23268423974514008
+    y: 0.6319451928138733
+  }
+}
+, mid: "/m/0fly7"
+name: "Jeans"
+score: 0.7221633791923523
+bounding_poly {
+  normalized_vertices {
+    x: 0.44819745421409607
+    y: 0.7449951171875
+  }
+  normalized_vertices {
+    x: 0.5383251905441284
+    y: 0.7449951171875
+  }
+  normalized_vertices {
+    x: 0.5383251905441284
+    y: 0.9804815649986267
+  }
+  normalized_vertices {
+    x: 0.44819745421409607
+    y: 0.9804815649986267
+  }
+}
+, mid: "/m/0fly7"
+name: "Jeans"
+score: 0.705562174320221
+bounding_poly {
+  normalized_vertices {
+    x: 0.5536800026893616
+    y: 0.7497696876525879
+  }
+  normalized_vertices {
+    x: 0.6424573659896851
+    y: 0.7497696876525879
+  }
+  normalized_vertices {
+    x: 0.6424573659896851
+    y: 0.9799671769142151
+  }
+  normalized_vertices {
+    x: 0.5536800026893616
+    y: 0.9799671769142151
+  }
+}
+, mid: "/m/09j2d"
+name: "Clothing"
+score: 0.6287863850593567
+bounding_poly {
+  normalized_vertices {
+    x: 0.45890653133392334
+    y: 0.5504578948020935
+  }
+  normalized_vertices {
+    x: 0.5571916699409485
+    y: 0.5504578948020935
+  }
+  normalized_vertices {
+    x: 0.5571916699409485
+    y: 0.754627525806427
+  }
+  normalized_vertices {
+    x: 0.45890653133392334
+    y: 0.754627525806427
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.9028786420822144
+bounding_poly {
+  normalized_vertices {
+    x: 0.6416633725166321
+    y: 0.32421427965164185
+  }
+  normalized_vertices {
+    x: 0.8035054802894592
+    y: 0.32421427965164185
+  }
+  normalized_vertices {
+    x: 0.8035054802894592
+    y: 0.8045966625213623
+  }
+  normalized_vertices {
+    x: 0.6416633725166321
+    y: 0.8045966625213623
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9022899866104126
+bounding_poly {
+  normalized_vertices {
+    x: 0.4893115758895874
+    y: 0.09784551709890366
+  }
+  normalized_vertices {
+    x: 0.6080673933029175
+    y: 0.09784551709890366
+  }
+  normalized_vertices {
+    x: 0.6080673933029175
+    y: 0.43405354022979736
+  }
+  normalized_vertices {
+    x: 0.4893115758895874
+    y: 0.43405354022979736
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8844975829124451
+bounding_poly {
+  normalized_vertices {
+    x: 0.10466676205396652
+    y: 0.31056004762649536
+  }
+  normalized_vertices {
+    x: 0.25381165742874146
+    y: 0.31056004762649536
+  }
+  normalized_vertices {
+    x: 0.25381165742874146
+    y: 0.8023179173469543
+  }
+  normalized_vertices {
+    x: 0.10466676205396652
+    y: 0.8023179173469543
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8027843236923218
+bounding_poly {
+  normalized_vertices {
+    x: 0.6374018788337708
+    y: 0.3312731087207794
+  }
+  normalized_vertices {
+    x: 0.8053761124610901
+    y: 0.3312731087207794
+  }
+  normalized_vertices {
+    x: 0.8053761124610901
+    y: 0.8109921813011169
+  }
+  normalized_vertices {
+    x: 0.6374018788337708
+    y: 0.8109921813011169
+  }
+}
+, mid: "/m/01rkbr"
+name: "Tie"
+score: 0.6761414408683777
+bounding_poly {
+  normalized_vertices {
+    x: 0.6896548867225647
+    y: 0.41366100311279297
+  }
+  normalized_vertices {
+    x: 0.7445579171180725
+    y: 0.41366100311279297
+  }
+  normalized_vertices {
+    x: 0.7445579171180725
+    y: 0.6109024882316589
+  }
+  normalized_vertices {
+    x: 0.6896548867225647
+    y: 0.6109024882316589
+  }
+}
+, mid: "/m/07mhn"
+name: "Pants"
+score: 0.6693910956382751
+bounding_poly {
+  normalized_vertices {
+    x: 0.6416911482810974
+    y: 0.5899814963340759
+  }
+  normalized_vertices {
+    x: 0.769036054611206
+    y: 0.5899814963340759
+  }
+  normalized_vertices {
+    x: 0.769036054611206
+    y: 0.785149872303009
+  }
+  normalized_vertices {
+    x: 0.6416911482810974
+    y: 0.785149872303009
+  }
+}
+, mid: "/m/07mhn"
+name: "Pants"
+score: 0.6397725343704224
+bounding_poly {
+  normalized_vertices {
+    x: 0.5017786026000977
+    y: 0.27696332335472107
+  }
+  normalized_vertices {
+    x: 0.6015163064002991
+    y: 0.27696332335472107
+  }
+  normalized_vertices {
+    x: 0.6015163064002991
+    y: 0.4174603223800659
+  }
+  normalized_vertices {
+    x: 0.5017786026000977
+    y: 0.4174603223800659
+  }
+}
+, mid: "/m/07mhn"
+name: "Pants"
+score: 0.6255258917808533
+bounding_poly {
+  normalized_vertices {
+    x: 0.10753042250871658
+    y: 0.5842143893241882
+  }
+  normalized_vertices {
+    x: 0.23771482706069946
+    y: 0.5842143893241882
+  }
+  normalized_vertices {
+    x: 0.23771482706069946
+    y: 0.7951183319091797
+  }
+  normalized_vertices {
+    x: 0.10753042250871658
+    y: 0.7951183319091797
+  }
+}
+, mid: "/m/047vlmn"
+name: "Outerwear"
+score: 0.608153760433197
+bounding_poly {
+  normalized_vertices {
+    x: 0.4933434724807739
+    y: 0.15239191055297852
+  }
+  normalized_vertices {
+    x: 0.6058242917060852
+    y: 0.15239191055297852
+  }
+  normalized_vertices {
+    x: 0.6058242917060852
+    y: 0.31979626417160034
+  }
+  normalized_vertices {
+    x: 0.4933434724807739
+    y: 0.31979626417160034
+  }
+}
+, mid: "/m/0hf58v5"
+name: "Luggage & bags"
+score: 0.5440865755081177
+bounding_poly {
+  normalized_vertices {
+    x: 0.5829446315765381
+    y: 0.3974777162075043
+  }
+  normalized_vertices {
+    x: 0.6735708713531494
+    y: 0.3974777162075043
+  }
+  normalized_vertices {
+    x: 0.6735708713531494
+    y: 0.5439610481262207
+  }
+  normalized_vertices {
+    x: 0.5829446315765381
+    y: 0.5439610481262207
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.9284088015556335
+bounding_poly {
+  normalized_vertices {
+    x: 0.7339470386505127
+    y: 0.12428486347198486
+  }
+  normalized_vertices {
+    x: 0.8841855525970459
+    y: 0.12428486347198486
+  }
+  normalized_vertices {
+    x: 0.8841855525970459
+    y: 0.4484943151473999
+  }
+  normalized_vertices {
+    x: 0.7339470386505127
+    y: 0.4484943151473999
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9016048312187195
+bounding_poly {
+  normalized_vertices {
+    x: 0.2935834228992462
+    y: 0.36867520213127136
+  }
+  normalized_vertices {
+    x: 0.4085458815097809
+    y: 0.36867520213127136
+  }
+  normalized_vertices {
+    x: 0.4085458815097809
+    y: 0.6829071044921875
+  }
+  normalized_vertices {
+    x: 0.2935834228992462
+    y: 0.6829071044921875
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8976932168006897
+bounding_poly {
+  normalized_vertices {
+    x: 0.5769045948982239
+    y: 0.12378370761871338
+  }
+  normalized_vertices {
+    x: 0.720648467540741
+    y: 0.12378370761871338
+  }
+  normalized_vertices {
+    x: 0.720648467540741
+    y: 0.4265938699245453
+  }
+  normalized_vertices {
+    x: 0.5769045948982239
+    y: 0.4265938699245453
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8822033405303955
+bounding_poly {
+  normalized_vertices {
+    x: 0.4879268705844879
+    y: 0.2901913821697235
+  }
+  normalized_vertices {
+    x: 0.7927432060241699
+    y: 0.2901913821697235
+  }
+  normalized_vertices {
+    x: 0.7927432060241699
+    y: 0.5745760798454285
+  }
+  normalized_vertices {
+    x: 0.4879268705844879
+    y: 0.5745760798454285
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8603436946868896
+bounding_poly {
+  normalized_vertices {
+    x: 0.6606459021568298
+    y: 0.711786687374115
+  }
+  normalized_vertices {
+    x: 0.7673614025115967
+    y: 0.711786687374115
+  }
+  normalized_vertices {
+    x: 0.7673614025115967
+    y: 0.941978394985199
+  }
+  normalized_vertices {
+    x: 0.6606459021568298
+    y: 0.941978394985199
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8598785996437073
+bounding_poly {
+  normalized_vertices {
+    x: 0.3822658360004425
+    y: 0.371500700712204
+  }
+  normalized_vertices {
+    x: 0.4878816604614258
+    y: 0.371500700712204
+  }
+  normalized_vertices {
+    x: 0.4878816604614258
+    y: 0.6975175738334656
+  }
+  normalized_vertices {
+    x: 0.3822658360004425
+    y: 0.6975175738334656
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8594698309898376
+bounding_poly {
+  normalized_vertices {
+    x: 0.5595149397850037
+    y: 0.7003044486045837
+  }
+  normalized_vertices {
+    x: 0.6971426010131836
+    y: 0.7003044486045837
+  }
+  normalized_vertices {
+    x: 0.6971426010131836
+    y: 0.9751246571540833
+  }
+  normalized_vertices {
+    x: 0.5595149397850037
+    y: 0.9751246571540833
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8583967089653015
+bounding_poly {
+  normalized_vertices {
+    x: 0.8598374724388123
+    y: 0.4154280126094818
+  }
+  normalized_vertices {
+    x: 0.9881224632263184
+    y: 0.4154280126094818
+  }
+  normalized_vertices {
+    x: 0.9881224632263184
+    y: 0.698552668094635
+  }
+  normalized_vertices {
+    x: 0.8598374724388123
+    y: 0.698552668094635
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.855552613735199
+bounding_poly {
+  normalized_vertices {
+    x: 0.0027698304038494825
+    y: 0.7471251487731934
+  }
+  normalized_vertices {
+    x: 0.1145266592502594
+    y: 0.7471251487731934
+  }
+  normalized_vertices {
+    x: 0.1145266592502594
+    y: 0.9762147068977356
+  }
+  normalized_vertices {
+    x: 0.0027698304038494825
+    y: 0.9762147068977356
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.84525465965271
+bounding_poly {
+  normalized_vertices {
+    x: 0.10570850968360901
+    y: 0.8281657099723816
+  }
+  normalized_vertices {
+    x: 0.19310148060321808
+    y: 0.8281657099723816
+  }
+  normalized_vertices {
+    x: 0.19310148060321808
+    y: 0.9901854395866394
+  }
+  normalized_vertices {
+    x: 0.10570850968360901
+    y: 0.9901854395866394
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.9211477637290955
+bounding_poly {
+  normalized_vertices {
+    x: 0.32307809591293335
+    y: 0.4471723735332489
+  }
+  normalized_vertices {
+    x: 0.5002201199531555
+    y: 0.4471723735332489
+  }
+  normalized_vertices {
+    x: 0.5002201199531555
+    y: 0.7984892725944519
+  }
+  normalized_vertices {
+    x: 0.32307809591293335
+    y: 0.7984892725944519
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9144287109375
+bounding_poly {
+  normalized_vertices {
+    x: 0.7563595771789551
+    y: 0.46017956733703613
+  }
+  normalized_vertices {
+    x: 0.9200267195701599
+    y: 0.46017956733703613
+  }
+  normalized_vertices {
+    x: 0.9200267195701599
+    y: 0.8110325932502747
+  }
+  normalized_vertices {
+    x: 0.7563595771789551
+    y: 0.8110325932502747
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9113748669624329
+bounding_poly {
+  normalized_vertices {
+    x: 0.48816290497779846
+    y: 0.43848904967308044
+  }
+  normalized_vertices {
+    x: 0.6646845936775208
+    y: 0.43848904967308044
+  }
+  normalized_vertices {
+    x: 0.6646845936775208
+    y: 0.8152310848236084
+  }
+  normalized_vertices {
+    x: 0.48816290497779846
+    y: 0.8152310848236084
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9048489928245544
+bounding_poly {
+  normalized_vertices {
+    x: 0.6430772542953491
+    y: 0.47301411628723145
+  }
+  normalized_vertices {
+    x: 0.7663593888282776
+    y: 0.47301411628723145
+  }
+  normalized_vertices {
+    x: 0.7663593888282776
+    y: 0.793117105960846
+  }
+  normalized_vertices {
+    x: 0.6430772542953491
+    y: 0.793117105960846
+  }
+}
+, mid: "/m/0hf58v5"
+name: "Luggage & bags"
+score: 0.6310291886329651
+bounding_poly {
+  normalized_vertices {
+    x: 0.01589335687458515
+    y: 0.6296375393867493
+  }
+  normalized_vertices {
+    x: 0.14164553582668304
+    y: 0.6296375393867493
+  }
+  normalized_vertices {
+    x: 0.14164553582668304
+    y: 0.7844724655151367
+  }
+  normalized_vertices {
+    x: 0.01589335687458515
+    y: 0.7844724655151367
+  }
+}
+, mid: "/m/0hf58v5"
+name: "Luggage & bags"
+score: 0.5463253855705261
+bounding_poly {
+  normalized_vertices {
+    x: 0.13206680119037628
+    y: 0.6303991675376892
+  }
+  normalized_vertices {
+    x: 0.2564951479434967
+    y: 0.6303991675376892
+  }
+  normalized_vertices {
+    x: 0.2564951479434967
+    y: 0.7807917594909668
+  }
+  normalized_vertices {
+    x: 0.13206680119037628
+    y: 0.7807917594909668
+  }
+}
+, mid: "/m/03gx245"
+name: "Top"
+score: 0.5275184512138367
+bounding_poly {
+  normalized_vertices {
+    x: 0.649506151676178
+    y: 0.557153582572937
+  }
+  normalized_vertices {
+    x: 0.76512211561203
+    y: 0.557153582572937
+  }
+  normalized_vertices {
+    x: 0.76512211561203
+    y: 0.7048099637031555
+  }
+  normalized_vertices {
+    x: 0.649506151676178
+    y: 0.7048099637031555
+  }
+}
+, mid: "/m/03gx245"
+name: "Top"
+score: 0.5093116164207458
+bounding_poly {
+  normalized_vertices {
+    x: 0.49055346846580505
+    y: 0.5510209202766418
+  }
+  normalized_vertices {
+    x: 0.6026201844215393
+    y: 0.5510209202766418
+  }
+  normalized_vertices {
+    x: 0.6026201844215393
+    y: 0.6833810806274414
+  }
+  normalized_vertices {
+    x: 0.49055346846580505
+    y: 0.6833810806274414
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.8927019238471985
+bounding_poly {
+  normalized_vertices {
+    x: 0.7406347393989563
+    y: 0.5089831948280334
+  }
+  normalized_vertices {
+    x: 0.8268771171569824
+    y: 0.5089831948280334
+  }
+  normalized_vertices {
+    x: 0.8268771171569824
+    y: 0.9895668625831604
+  }
+  normalized_vertices {
+    x: 0.7406347393989563
+    y: 0.9895668625831604
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8344775438308716
+bounding_poly {
+  normalized_vertices {
+    x: 0.11107096821069717
+    y: 0.5095019936561584
+  }
+  normalized_vertices {
+    x: 0.2156357765197754
+    y: 0.5095019936561584
+  }
+  normalized_vertices {
+    x: 0.2156357765197754
+    y: 0.8516090512275696
+  }
+  normalized_vertices {
+    x: 0.11107096821069717
+    y: 0.8516090512275696
+  }
+}
+, mid: "/m/09j2d"
+name: "Clothing"
+score: 0.6798856854438782
+bounding_poly {
+  normalized_vertices {
+    x: 0.7514182925224304
+    y: 0.7230973839759827
+  }
+  normalized_vertices {
+    x: 0.8180420398712158
+    y: 0.7230973839759827
+  }
+  normalized_vertices {
+    x: 0.8180420398712158
+    y: 0.9749312400817871
+  }
+  normalized_vertices {
+    x: 0.7514182925224304
+    y: 0.9749312400817871
+  }
+}
+, mid: "/m/01mzpv"
+name: "Chair"
+score: 0.66233891248703
+bounding_poly {
+  normalized_vertices {
+    x: 0.7942838072776794
+    y: 0.8187418580055237
+  }
+  normalized_vertices {
+    x: 0.8805705904960632
+    y: 0.8187418580055237
+  }
+  normalized_vertices {
+    x: 0.8805705904960632
+    y: 0.9884923100471497
+  }
+  normalized_vertices {
+    x: 0.7942838072776794
+    y: 0.9884923100471497
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.6052244901657104
+bounding_poly {
+  normalized_vertices {
+    x: 0.11994454264640808
+    y: 0.5153398513793945
+  }
+  normalized_vertices {
+    x: 0.2200084775686264
+    y: 0.5153398513793945
+  }
+  normalized_vertices {
+    x: 0.2200084775686264
+    y: 0.8439779281616211
+  }
+  normalized_vertices {
+    x: 0.11994454264640808
+    y: 0.8439779281616211
+  }
+}
+, mid: "/m/01mzpv"
+name: "Chair"
+score: 0.5775213241577148
+bounding_poly {
+  normalized_vertices {
+    x: 0.8771130442619324
+    y: 0.8214177489280701
+  }
+  normalized_vertices {
+    x: 0.9634698033332825
+    y: 0.8214177489280701
+  }
+  normalized_vertices {
+    x: 0.9634698033332825
+    y: 0.989621102809906
+  }
+  normalized_vertices {
+    x: 0.8771130442619324
+    y: 0.989621102809906
+  }
+}
+, mid: "/m/09j2d"
+name: "Clothing"
+score: 0.5738433599472046
+bounding_poly {
+  normalized_vertices {
+    x: 0.13150885701179504
+    y: 0.5781614184379578
+  }
+  normalized_vertices {
+    x: 0.21492499113082886
+    y: 0.5781614184379578
+  }
+  normalized_vertices {
+    x: 0.21492499113082886
+    y: 0.813215434551239
+  }
+  normalized_vertices {
+    x: 0.13150885701179504
+    y: 0.813215434551239
+  }
+}
+, mid: "/m/09j2d"
+name: "Clothing"
+score: 0.5420029759407043
+bounding_poly {
+  normalized_vertices {
+    x: 0.7541906237602234
+    y: 0.5832074880599976
+  }
+  normalized_vertices {
+    x: 0.826610803604126
+    y: 0.5832074880599976
+  }
+  normalized_vertices {
+    x: 0.826610803604126
+    y: 0.7210307121276855
+  }
+  normalized_vertices {
+    x: 0.7541906237602234
+    y: 0.7210307121276855
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.8657755255699158
+bounding_poly {
+  normalized_vertices {
+    x: 0.2713715732097626
+    y: 0.482057124376297
+  }
+  normalized_vertices {
+    x: 0.4040820300579071
+    y: 0.482057124376297
+  }
+  normalized_vertices {
+    x: 0.4040820300579071
+    y: 0.8041432499885559
+  }
+  normalized_vertices {
+    x: 0.2713715732097626
+    y: 0.8041432499885559
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8569633364677429
+bounding_poly {
+  normalized_vertices {
+    x: 0.1955355554819107
+    y: 0.2471475750207901
+  }
+  normalized_vertices {
+    x: 0.31276968121528625
+    y: 0.2471475750207901
+  }
+  normalized_vertices {
+    x: 0.31276968121528625
+    y: 0.634826123714447
+  }
+  normalized_vertices {
+    x: 0.1955355554819107
+    y: 0.634826123714447
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8561521172523499
+bounding_poly {
+  normalized_vertices {
+    x: 0.5428206324577332
+    y: 0.4892279803752899
+  }
+  normalized_vertices {
+    x: 0.6543083786964417
+    y: 0.4892279803752899
+  }
+  normalized_vertices {
+    x: 0.6543083786964417
+    y: 0.9812221527099609
+  }
+  normalized_vertices {
+    x: 0.5428206324577332
+    y: 0.9812221527099609
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8558022379875183
+bounding_poly {
+  normalized_vertices {
+    x: 0.8763642907142639
+    y: 0.5231730341911316
+  }
+  normalized_vertices {
+    x: 0.9663116335868835
+    y: 0.5231730341911316
+  }
+  normalized_vertices {
+    x: 0.9663116335868835
+    y: 0.9963503479957581
+  }
+  normalized_vertices {
+    x: 0.8763642907142639
+    y: 0.9963503479957581
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8553149700164795
+bounding_poly {
+  normalized_vertices {
+    x: 0.45114922523498535
+    y: 0.4882088899612427
+  }
+  normalized_vertices {
+    x: 0.5648989081382751
+    y: 0.4882088899612427
+  }
+  normalized_vertices {
+    x: 0.5648989081382751
+    y: 0.9826100468635559
+  }
+  normalized_vertices {
+    x: 0.45114922523498535
+    y: 0.9826100468635559
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8431600332260132
+bounding_poly {
+  normalized_vertices {
+    x: 0.05708043649792671
+    y: 0.004113632719963789
+  }
+  normalized_vertices {
+    x: 0.1361641138792038
+    y: 0.004113632719963789
+  }
+  normalized_vertices {
+    x: 0.1361641138792038
+    y: 0.3087773025035858
+  }
+  normalized_vertices {
+    x: 0.05708043649792671
+    y: 0.3087773025035858
+  }
+}
+, mid: "/m/0fly7"
+name: "Jeans"
+score: 0.7426470518112183
+bounding_poly {
+  normalized_vertices {
+    x: 0.23268423974514008
+    y: 0.39950478076934814
+  }
+  normalized_vertices {
+    x: 0.30454567074775696
+    y: 0.39950478076934814
+  }
+  normalized_vertices {
+    x: 0.30454567074775696
+    y: 0.6319451928138733
+  }
+  normalized_vertices {
+    x: 0.23268423974514008
+    y: 0.6319451928138733
+  }
+}
+, mid: "/m/0fly7"
+name: "Jeans"
+score: 0.7221633791923523
+bounding_poly {
+  normalized_vertices {
+    x: 0.44819745421409607
+    y: 0.7449951171875
+  }
+  normalized_vertices {
+    x: 0.5383251905441284
+    y: 0.7449951171875
+  }
+  normalized_vertices {
+    x: 0.5383251905441284
+    y: 0.9804815649986267
+  }
+  normalized_vertices {
+    x: 0.44819745421409607
+    y: 0.9804815649986267
+  }
+}
+, mid: "/m/0fly7"
+name: "Jeans"
+score: 0.705562174320221
+bounding_poly {
+  normalized_vertices {
+    x: 0.5536800026893616
+    y: 0.7497696876525879
+  }
+  normalized_vertices {
+    x: 0.6424573659896851
+    y: 0.7497696876525879
+  }
+  normalized_vertices {
+    x: 0.6424573659896851
+    y: 0.9799671769142151
+  }
+  normalized_vertices {
+    x: 0.5536800026893616
+    y: 0.9799671769142151
+  }
+}
+, mid: "/m/09j2d"
+name: "Clothing"
+score: 0.6287863850593567
+bounding_poly {
+  normalized_vertices {
+    x: 0.45890653133392334
+    y: 0.5504578948020935
+  }
+  normalized_vertices {
+    x: 0.5571916699409485
+    y: 0.5504578948020935
+  }
+  normalized_vertices {
+    x: 0.5571916699409485
+    y: 0.754627525806427
+  }
+  normalized_vertices {
+    x: 0.45890653133392334
+    y: 0.754627525806427
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.9028786420822144
+bounding_poly {
+  normalized_vertices {
+    x: 0.6416633725166321
+    y: 0.32421427965164185
+  }
+  normalized_vertices {
+    x: 0.8035054802894592
+    y: 0.32421427965164185
+  }
+  normalized_vertices {
+    x: 0.8035054802894592
+    y: 0.8045966625213623
+  }
+  normalized_vertices {
+    x: 0.6416633725166321
+    y: 0.8045966625213623
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9022899866104126
+bounding_poly {
+  normalized_vertices {
+    x: 0.4893115758895874
+    y: 0.09784551709890366
+  }
+  normalized_vertices {
+    x: 0.6080673933029175
+    y: 0.09784551709890366
+  }
+  normalized_vertices {
+    x: 0.6080673933029175
+    y: 0.43405354022979736
+  }
+  normalized_vertices {
+    x: 0.4893115758895874
+    y: 0.43405354022979736
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8844975829124451
+bounding_poly {
+  normalized_vertices {
+    x: 0.10466676205396652
+    y: 0.31056004762649536
+  }
+  normalized_vertices {
+    x: 0.25381165742874146
+    y: 0.31056004762649536
+  }
+  normalized_vertices {
+    x: 0.25381165742874146
+    y: 0.8023179173469543
+  }
+  normalized_vertices {
+    x: 0.10466676205396652
+    y: 0.8023179173469543
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8027843236923218
+bounding_poly {
+  normalized_vertices {
+    x: 0.6374018788337708
+    y: 0.3312731087207794
+  }
+  normalized_vertices {
+    x: 0.8053761124610901
+    y: 0.3312731087207794
+  }
+  normalized_vertices {
+    x: 0.8053761124610901
+    y: 0.8109921813011169
+  }
+  normalized_vertices {
+    x: 0.6374018788337708
+    y: 0.8109921813011169
+  }
+}
+, mid: "/m/01rkbr"
+name: "Tie"
+score: 0.6761414408683777
+bounding_poly {
+  normalized_vertices {
+    x: 0.6896548867225647
+    y: 0.41366100311279297
+  }
+  normalized_vertices {
+    x: 0.7445579171180725
+    y: 0.41366100311279297
+  }
+  normalized_vertices {
+    x: 0.7445579171180725
+    y: 0.6109024882316589
+  }
+  normalized_vertices {
+    x: 0.6896548867225647
+    y: 0.6109024882316589
+  }
+}
+, mid: "/m/07mhn"
+name: "Pants"
+score: 0.6693910956382751
+bounding_poly {
+  normalized_vertices {
+    x: 0.6416911482810974
+    y: 0.5899814963340759
+  }
+  normalized_vertices {
+    x: 0.769036054611206
+    y: 0.5899814963340759
+  }
+  normalized_vertices {
+    x: 0.769036054611206
+    y: 0.785149872303009
+  }
+  normalized_vertices {
+    x: 0.6416911482810974
+    y: 0.785149872303009
+  }
+}
+, mid: "/m/07mhn"
+name: "Pants"
+score: 0.6397725343704224
+bounding_poly {
+  normalized_vertices {
+    x: 0.5017786026000977
+    y: 0.27696332335472107
+  }
+  normalized_vertices {
+    x: 0.6015163064002991
+    y: 0.27696332335472107
+  }
+  normalized_vertices {
+    x: 0.6015163064002991
+    y: 0.4174603223800659
+  }
+  normalized_vertices {
+    x: 0.5017786026000977
+    y: 0.4174603223800659
+  }
+}
+, mid: "/m/07mhn"
+name: "Pants"
+score: 0.6255258917808533
+bounding_poly {
+  normalized_vertices {
+    x: 0.10753042250871658
+    y: 0.5842143893241882
+  }
+  normalized_vertices {
+    x: 0.23771482706069946
+    y: 0.5842143893241882
+  }
+  normalized_vertices {
+    x: 0.23771482706069946
+    y: 0.7951183319091797
+  }
+  normalized_vertices {
+    x: 0.10753042250871658
+    y: 0.7951183319091797
+  }
+}
+, mid: "/m/047vlmn"
+name: "Outerwear"
+score: 0.608153760433197
+bounding_poly {
+  normalized_vertices {
+    x: 0.4933434724807739
+    y: 0.15239191055297852
+  }
+  normalized_vertices {
+    x: 0.6058242917060852
+    y: 0.15239191055297852
+  }
+  normalized_vertices {
+    x: 0.6058242917060852
+    y: 0.31979626417160034
+  }
+  normalized_vertices {
+    x: 0.4933434724807739
+    y: 0.31979626417160034
+  }
+}
+, mid: "/m/0hf58v5"
+name: "Luggage & bags"
+score: 0.5440865755081177
+bounding_poly {
+  normalized_vertices {
+    x: 0.5829446315765381
+    y: 0.3974777162075043
+  }
+  normalized_vertices {
+    x: 0.6735708713531494
+    y: 0.3974777162075043
+  }
+  normalized_vertices {
+    x: 0.6735708713531494
+    y: 0.5439610481262207
+  }
+  normalized_vertices {
+    x: 0.5829446315765381
+    y: 0.5439610481262207
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.9284088015556335
+bounding_poly {
+  normalized_vertices {
+    x: 0.7339470386505127
+    y: 0.12428486347198486
+  }
+  normalized_vertices {
+    x: 0.8841855525970459
+    y: 0.12428486347198486
+  }
+  normalized_vertices {
+    x: 0.8841855525970459
+    y: 0.4484943151473999
+  }
+  normalized_vertices {
+    x: 0.7339470386505127
+    y: 0.4484943151473999
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9016048312187195
+bounding_poly {
+  normalized_vertices {
+    x: 0.2935834228992462
+    y: 0.36867520213127136
+  }
+  normalized_vertices {
+    x: 0.4085458815097809
+    y: 0.36867520213127136
+  }
+  normalized_vertices {
+    x: 0.4085458815097809
+    y: 0.6829071044921875
+  }
+  normalized_vertices {
+    x: 0.2935834228992462
+    y: 0.6829071044921875
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8976932168006897
+bounding_poly {
+  normalized_vertices {
+    x: 0.5769045948982239
+    y: 0.12378370761871338
+  }
+  normalized_vertices {
+    x: 0.720648467540741
+    y: 0.12378370761871338
+  }
+  normalized_vertices {
+    x: 0.720648467540741
+    y: 0.4265938699245453
+  }
+  normalized_vertices {
+    x: 0.5769045948982239
+    y: 0.4265938699245453
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8822033405303955
+bounding_poly {
+  normalized_vertices {
+    x: 0.4879268705844879
+    y: 0.2901913821697235
+  }
+  normalized_vertices {
+    x: 0.7927432060241699
+    y: 0.2901913821697235
+  }
+  normalized_vertices {
+    x: 0.7927432060241699
+    y: 0.5745760798454285
+  }
+  normalized_vertices {
+    x: 0.4879268705844879
+    y: 0.5745760798454285
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8603436946868896
+bounding_poly {
+  normalized_vertices {
+    x: 0.6606459021568298
+    y: 0.711786687374115
+  }
+  normalized_vertices {
+    x: 0.7673614025115967
+    y: 0.711786687374115
+  }
+  normalized_vertices {
+    x: 0.7673614025115967
+    y: 0.941978394985199
+  }
+  normalized_vertices {
+    x: 0.6606459021568298
+    y: 0.941978394985199
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8598785996437073
+bounding_poly {
+  normalized_vertices {
+    x: 0.3822658360004425
+    y: 0.371500700712204
+  }
+  normalized_vertices {
+    x: 0.4878816604614258
+    y: 0.371500700712204
+  }
+  normalized_vertices {
+    x: 0.4878816604614258
+    y: 0.6975175738334656
+  }
+  normalized_vertices {
+    x: 0.3822658360004425
+    y: 0.6975175738334656
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8594698309898376
+bounding_poly {
+  normalized_vertices {
+    x: 0.5595149397850037
+    y: 0.7003044486045837
+  }
+  normalized_vertices {
+    x: 0.6971426010131836
+    y: 0.7003044486045837
+  }
+  normalized_vertices {
+    x: 0.6971426010131836
+    y: 0.9751246571540833
+  }
+  normalized_vertices {
+    x: 0.5595149397850037
+    y: 0.9751246571540833
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8583967089653015
+bounding_poly {
+  normalized_vertices {
+    x: 0.8598374724388123
+    y: 0.4154280126094818
+  }
+  normalized_vertices {
+    x: 0.9881224632263184
+    y: 0.4154280126094818
+  }
+  normalized_vertices {
+    x: 0.9881224632263184
+    y: 0.698552668094635
+  }
+  normalized_vertices {
+    x: 0.8598374724388123
+    y: 0.698552668094635
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.855552613735199
+bounding_poly {
+  normalized_vertices {
+    x: 0.0027698304038494825
+    y: 0.7471251487731934
+  }
+  normalized_vertices {
+    x: 0.1145266592502594
+    y: 0.7471251487731934
+  }
+  normalized_vertices {
+    x: 0.1145266592502594
+    y: 0.9762147068977356
+  }
+  normalized_vertices {
+    x: 0.0027698304038494825
+    y: 0.9762147068977356
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.84525465965271
+bounding_poly {
+  normalized_vertices {
+    x: 0.10570850968360901
+    y: 0.8281657099723816
+  }
+  normalized_vertices {
+    x: 0.19310148060321808
+    y: 0.8281657099723816
+  }
+  normalized_vertices {
+    x: 0.19310148060321808
+    y: 0.9901854395866394
+  }
+  normalized_vertices {
+    x: 0.10570850968360901
+    y: 0.9901854395866394
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.9211477637290955
+bounding_poly {
+  normalized_vertices {
+    x: 0.32307809591293335
+    y: 0.4471723735332489
+  }
+  normalized_vertices {
+    x: 0.5002201199531555
+    y: 0.4471723735332489
+  }
+  normalized_vertices {
+    x: 0.5002201199531555
+    y: 0.7984892725944519
+  }
+  normalized_vertices {
+    x: 0.32307809591293335
+    y: 0.7984892725944519
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9144287109375
+bounding_poly {
+  normalized_vertices {
+    x: 0.7563595771789551
+    y: 0.46017956733703613
+  }
+  normalized_vertices {
+    x: 0.9200267195701599
+    y: 0.46017956733703613
+  }
+  normalized_vertices {
+    x: 0.9200267195701599
+    y: 0.8110325932502747
+  }
+  normalized_vertices {
+    x: 0.7563595771789551
+    y: 0.8110325932502747
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9113748669624329
+bounding_poly {
+  normalized_vertices {
+    x: 0.48816290497779846
+    y: 0.43848904967308044
+  }
+  normalized_vertices {
+    x: 0.6646845936775208
+    y: 0.43848904967308044
+  }
+  normalized_vertices {
+    x: 0.6646845936775208
+    y: 0.8152310848236084
+  }
+  normalized_vertices {
+    x: 0.48816290497779846
+    y: 0.8152310848236084
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9048489928245544
+bounding_poly {
+  normalized_vertices {
+    x: 0.6430772542953491
+    y: 0.47301411628723145
+  }
+  normalized_vertices {
+    x: 0.7663593888282776
+    y: 0.47301411628723145
+  }
+  normalized_vertices {
+    x: 0.7663593888282776
+    y: 0.793117105960846
+  }
+  normalized_vertices {
+    x: 0.6430772542953491
+    y: 0.793117105960846
+  }
+}
+, mid: "/m/0hf58v5"
+name: "Luggage & bags"
+score: 0.6310291886329651
+bounding_poly {
+  normalized_vertices {
+    x: 0.01589335687458515
+    y: 0.6296375393867493
+  }
+  normalized_vertices {
+    x: 0.14164553582668304
+    y: 0.6296375393867493
+  }
+  normalized_vertices {
+    x: 0.14164553582668304
+    y: 0.7844724655151367
+  }
+  normalized_vertices {
+    x: 0.01589335687458515
+    y: 0.7844724655151367
+  }
+}
+, mid: "/m/0hf58v5"
+name: "Luggage & bags"
+score: 0.5463253855705261
+bounding_poly {
+  normalized_vertices {
+    x: 0.13206680119037628
+    y: 0.6303991675376892
+  }
+  normalized_vertices {
+    x: 0.2564951479434967
+    y: 0.6303991675376892
+  }
+  normalized_vertices {
+    x: 0.2564951479434967
+    y: 0.7807917594909668
+  }
+  normalized_vertices {
+    x: 0.13206680119037628
+    y: 0.7807917594909668
+  }
+}
+, mid: "/m/03gx245"
+name: "Top"
+score: 0.5275184512138367
+bounding_poly {
+  normalized_vertices {
+    x: 0.649506151676178
+    y: 0.557153582572937
+  }
+  normalized_vertices {
+    x: 0.76512211561203
+    y: 0.557153582572937
+  }
+  normalized_vertices {
+    x: 0.76512211561203
+    y: 0.7048099637031555
+  }
+  normalized_vertices {
+    x: 0.649506151676178
+    y: 0.7048099637031555
+  }
+}
+, mid: "/m/03gx245"
+name: "Top"
+score: 0.5093116164207458
+bounding_poly {
+  normalized_vertices {
+    x: 0.49055346846580505
+    y: 0.5510209202766418
+  }
+  normalized_vertices {
+    x: 0.6026201844215393
+    y: 0.5510209202766418
+  }
+  normalized_vertices {
+    x: 0.6026201844215393
+    y: 0.6833810806274414
+  }
+  normalized_vertices {
+    x: 0.49055346846580505
+    y: 0.6833810806274414
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.8927019238471985
+bounding_poly {
+  normalized_vertices {
+    x: 0.7406347393989563
+    y: 0.5089831948280334
+  }
+  normalized_vertices {
+    x: 0.8268771171569824
+    y: 0.5089831948280334
+  }
+  normalized_vertices {
+    x: 0.8268771171569824
+    y: 0.9895668625831604
+  }
+  normalized_vertices {
+    x: 0.7406347393989563
+    y: 0.9895668625831604
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8344775438308716
+bounding_poly {
+  normalized_vertices {
+    x: 0.11107096821069717
+    y: 0.5095019936561584
+  }
+  normalized_vertices {
+    x: 0.2156357765197754
+    y: 0.5095019936561584
+  }
+  normalized_vertices {
+    x: 0.2156357765197754
+    y: 0.8516090512275696
+  }
+  normalized_vertices {
+    x: 0.11107096821069717
+    y: 0.8516090512275696
+  }
+}
+, mid: "/m/09j2d"
+name: "Clothing"
+score: 0.6798859238624573
+bounding_poly {
+  normalized_vertices {
+    x: 0.7514182925224304
+    y: 0.7230973839759827
+  }
+  normalized_vertices {
+    x: 0.8180420398712158
+    y: 0.7230973839759827
+  }
+  normalized_vertices {
+    x: 0.8180420398712158
+    y: 0.9749312400817871
+  }
+  normalized_vertices {
+    x: 0.7514182925224304
+    y: 0.9749312400817871
+  }
+}
+, mid: "/m/01mzpv"
+name: "Chair"
+score: 0.66233891248703
+bounding_poly {
+  normalized_vertices {
+    x: 0.7942838072776794
+    y: 0.8187418580055237
+  }
+  normalized_vertices {
+    x: 0.8805705904960632
+    y: 0.8187418580055237
+  }
+  normalized_vertices {
+    x: 0.8805705904960632
+    y: 0.9884923100471497
+  }
+  normalized_vertices {
+    x: 0.7942838072776794
+    y: 0.9884923100471497
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.6052247881889343
+bounding_poly {
+  normalized_vertices {
+    x: 0.11994454264640808
+    y: 0.5153398513793945
+  }
+  normalized_vertices {
+    x: 0.2200084775686264
+    y: 0.5153398513793945
+  }
+  normalized_vertices {
+    x: 0.2200084775686264
+    y: 0.8439779281616211
+  }
+  normalized_vertices {
+    x: 0.11994454264640808
+    y: 0.8439779281616211
+  }
+}
+, mid: "/m/01mzpv"
+name: "Chair"
+score: 0.5775221586227417
+bounding_poly {
+  normalized_vertices {
+    x: 0.8771130442619324
+    y: 0.8214177489280701
+  }
+  normalized_vertices {
+    x: 0.9634698033332825
+    y: 0.8214177489280701
+  }
+  normalized_vertices {
+    x: 0.9634698033332825
+    y: 0.989621102809906
+  }
+  normalized_vertices {
+    x: 0.8771130442619324
+    y: 0.989621102809906
+  }
+}
+, mid: "/m/09j2d"
+name: "Clothing"
+score: 0.5738433599472046
+bounding_poly {
+  normalized_vertices {
+    x: 0.13150885701179504
+    y: 0.5781614184379578
+  }
+  normalized_vertices {
+    x: 0.21492499113082886
+    y: 0.5781614184379578
+  }
+  normalized_vertices {
+    x: 0.21492499113082886
+    y: 0.813215434551239
+  }
+  normalized_vertices {
+    x: 0.13150885701179504
+    y: 0.813215434551239
+  }
+}
+, mid: "/m/09j2d"
+name: "Clothing"
+score: 0.5420029759407043
+bounding_poly {
+  normalized_vertices {
+    x: 0.7541906237602234
+    y: 0.5832074880599976
+  }
+  normalized_vertices {
+    x: 0.826610803604126
+    y: 0.5832074880599976
+  }
+  normalized_vertices {
+    x: 0.826610803604126
+    y: 0.7210307121276855
+  }
+  normalized_vertices {
+    x: 0.7541906237602234
+    y: 0.7210307121276855
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.8657755255699158
+bounding_poly {
+  normalized_vertices {
+    x: 0.2713715732097626
+    y: 0.482057124376297
+  }
+  normalized_vertices {
+    x: 0.4040820300579071
+    y: 0.482057124376297
+  }
+  normalized_vertices {
+    x: 0.4040820300579071
+    y: 0.8041432499885559
+  }
+  normalized_vertices {
+    x: 0.2713715732097626
+    y: 0.8041432499885559
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8569633364677429
+bounding_poly {
+  normalized_vertices {
+    x: 0.1955355554819107
+    y: 0.2471475750207901
+  }
+  normalized_vertices {
+    x: 0.31276968121528625
+    y: 0.2471475750207901
+  }
+  normalized_vertices {
+    x: 0.31276968121528625
+    y: 0.634826123714447
+  }
+  normalized_vertices {
+    x: 0.1955355554819107
+    y: 0.634826123714447
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8561521172523499
+bounding_poly {
+  normalized_vertices {
+    x: 0.5428206324577332
+    y: 0.4892279803752899
+  }
+  normalized_vertices {
+    x: 0.6543083786964417
+    y: 0.4892279803752899
+  }
+  normalized_vertices {
+    x: 0.6543083786964417
+    y: 0.9812221527099609
+  }
+  normalized_vertices {
+    x: 0.5428206324577332
+    y: 0.9812221527099609
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8558022379875183
+bounding_poly {
+  normalized_vertices {
+    x: 0.8763642907142639
+    y: 0.5231730341911316
+  }
+  normalized_vertices {
+    x: 0.9663116335868835
+    y: 0.5231730341911316
+  }
+  normalized_vertices {
+    x: 0.9663116335868835
+    y: 0.9963503479957581
+  }
+  normalized_vertices {
+    x: 0.8763642907142639
+    y: 0.9963503479957581
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8553149700164795
+bounding_poly {
+  normalized_vertices {
+    x: 0.45114922523498535
+    y: 0.4882088899612427
+  }
+  normalized_vertices {
+    x: 0.5648989081382751
+    y: 0.4882088899612427
+  }
+  normalized_vertices {
+    x: 0.5648989081382751
+    y: 0.9826100468635559
+  }
+  normalized_vertices {
+    x: 0.45114922523498535
+    y: 0.9826100468635559
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8431600332260132
+bounding_poly {
+  normalized_vertices {
+    x: 0.05708043649792671
+    y: 0.004113632719963789
+  }
+  normalized_vertices {
+    x: 0.1361641138792038
+    y: 0.004113632719963789
+  }
+  normalized_vertices {
+    x: 0.1361641138792038
+    y: 0.3087773025035858
+  }
+  normalized_vertices {
+    x: 0.05708043649792671
+    y: 0.3087773025035858
+  }
+}
+, mid: "/m/0fly7"
+name: "Jeans"
+score: 0.7426470518112183
+bounding_poly {
+  normalized_vertices {
+    x: 0.23268423974514008
+    y: 0.39950478076934814
+  }
+  normalized_vertices {
+    x: 0.30454567074775696
+    y: 0.39950478076934814
+  }
+  normalized_vertices {
+    x: 0.30454567074775696
+    y: 0.6319451928138733
+  }
+  normalized_vertices {
+    x: 0.23268423974514008
+    y: 0.6319451928138733
+  }
+}
+, mid: "/m/0fly7"
+name: "Jeans"
+score: 0.7221633791923523
+bounding_poly {
+  normalized_vertices {
+    x: 0.44819745421409607
+    y: 0.7449951171875
+  }
+  normalized_vertices {
+    x: 0.5383251905441284
+    y: 0.7449951171875
+  }
+  normalized_vertices {
+    x: 0.5383251905441284
+    y: 0.9804815649986267
+  }
+  normalized_vertices {
+    x: 0.44819745421409607
+    y: 0.9804815649986267
+  }
+}
+, mid: "/m/0fly7"
+name: "Jeans"
+score: 0.705562174320221
+bounding_poly {
+  normalized_vertices {
+    x: 0.5536800026893616
+    y: 0.7497696876525879
+  }
+  normalized_vertices {
+    x: 0.6424573659896851
+    y: 0.7497696876525879
+  }
+  normalized_vertices {
+    x: 0.6424573659896851
+    y: 0.9799671769142151
+  }
+  normalized_vertices {
+    x: 0.5536800026893616
+    y: 0.9799671769142151
+  }
+}
+, mid: "/m/09j2d"
+name: "Clothing"
+score: 0.6287863850593567
+bounding_poly {
+  normalized_vertices {
+    x: 0.45890653133392334
+    y: 0.5504578948020935
+  }
+  normalized_vertices {
+    x: 0.5571916699409485
+    y: 0.5504578948020935
+  }
+  normalized_vertices {
+    x: 0.5571916699409485
+    y: 0.754627525806427
+  }
+  normalized_vertices {
+    x: 0.45890653133392334
+    y: 0.754627525806427
+  }
+}
+][mid: "/m/01g317"
+name: "Person"
+score: 0.9028786420822144
+bounding_poly {
+  normalized_vertices {
+    x: 0.6416633725166321
+    y: 0.32421427965164185
+  }
+  normalized_vertices {
+    x: 0.8035054802894592
+    y: 0.32421427965164185
+  }
+  normalized_vertices {
+    x: 0.8035054802894592
+    y: 0.8045966625213623
+  }
+  normalized_vertices {
+    x: 0.6416633725166321
+    y: 0.8045966625213623
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.9022899866104126
+bounding_poly {
+  normalized_vertices {
+    x: 0.4893115758895874
+    y: 0.09784551709890366
+  }
+  normalized_vertices {
+    x: 0.6080673933029175
+    y: 0.09784551709890366
+  }
+  normalized_vertices {
+    x: 0.6080673933029175
+    y: 0.43405354022979736
+  }
+  normalized_vertices {
+    x: 0.4893115758895874
+    y: 0.43405354022979736
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8844975829124451
+bounding_poly {
+  normalized_vertices {
+    x: 0.10466676205396652
+    y: 0.31056004762649536
+  }
+  normalized_vertices {
+    x: 0.25381165742874146
+    y: 0.31056004762649536
+  }
+  normalized_vertices {
+    x: 0.25381165742874146
+    y: 0.8023179173469543
+  }
+  normalized_vertices {
+    x: 0.10466676205396652
+    y: 0.8023179173469543
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.8027843236923218
+bounding_poly {
+  normalized_vertices {
+    x: 0.6374018788337708
+    y: 0.3312731087207794
+  }
+  normalized_vertices {
+    x: 0.8053761124610901
+    y: 0.3312731087207794
+  }
+  normalized_vertices {
+    x: 0.8053761124610901
+    y: 0.8109921813011169
+  }
+  normalized_vertices {
+    x: 0.6374018788337708
+    y: 0.8109921813011169
+  }
+}
+, mid: "/m/01rkbr"
+name: "Tie"
+score: 0.6761414408683777
+bounding_poly {
+  normalized_vertices {
+    x: 0.6896548867225647
+    y: 0.41366100311279297
+  }
+  normalized_vertices {
+    x: 0.7445579171180725
+    y: 0.41366100311279297
+  }
+  normalized_vertices {
+    x: 0.7445579171180725
+    y: 0.6109024882316589
+  }
+  normalized_vertices {
+    x: 0.6896548867225647
+    y: 0.6109024882316589
+  }
+}
+, mid: "/m/07mhn"
+name: "Pants"
+score: 0.6693910956382751
+bounding_poly {
+  normalized_vertices {
+    x: 0.6416911482810974
+    y: 0.5899814963340759
+  }
+  normalized_vertices {
+    x: 0.769036054611206
+    y: 0.5899814963340759
+  }
+  normalized_vertices {
+    x: 0.769036054611206
+    y: 0.785149872303009
+  }
+  normalized_vertices {
+    x: 0.6416911482810974
+    y: 0.785149872303009
+  }
+}
+, mid: "/m/07mhn"
+name: "Pants"
+score: 0.6397725343704224
+bounding_poly {
+  normalized_vertices {
+    x: 0.5017786026000977
+    y: 0.27696332335472107
+  }
+  normalized_vertices {
+    x: 0.6015163064002991
+    y: 0.27696332335472107
+  }
+  normalized_vertices {
+    x: 0.6015163064002991
+    y: 0.4174603223800659
+  }
+  normalized_vertices {
+    x: 0.5017786026000977
+    y: 0.4174603223800659
+  }
+}
+, mid: "/m/07mhn"
+name: "Pants"
+score: 0.6255258917808533
+bounding_poly {
+  normalized_vertices {
+    x: 0.10753042250871658
+    y: 0.5842143893241882
+  }
+  normalized_vertices {
+    x: 0.23771482706069946
+    y: 0.5842143893241882
+  }
+  normalized_vertices {
+    x: 0.23771482706069946
+    y: 0.7951183319091797
+  }
+  normalized_vertices {
+    x: 0.10753042250871658
+    y: 0.7951183319091797
+  }
+}
+, mid: "/m/047vlmn"
+name: "Outerwear"
+score: 0.608153760433197
+bounding_poly {
+  normalized_vertices {
+    x: 0.4933434724807739
+    y: 0.15239191055297852
+  }
+  normalized_vertices {
+    x: 0.6058242917060852
+    y: 0.15239191055297852
+  }
+  normalized_vertices {
+    x: 0.6058242917060852
+    y: 0.31979626417160034
+  }
+  normalized_vertices {
+    x: 0.4933434724807739
+    y: 0.31979626417160034
+  }
+}
+, mid: "/m/0hf58v5"
+name: "Luggage & bags"
+score: 0.5440865755081177
+bounding_poly {
+  normalized_vertices {
+    x: 0.5829446315765381
+    y: 0.3974777162075043
+  }
+  normalized_vertices {
+    x: 0.6735708713531494
+    y: 0.3974777162075043
+  }
+  normalized_vertices {
+    x: 0.6735708713531494
+    y: 0.5439610481262207
+  }
+  normalized_vertices {
+    x: 0.5829446315765381
+    y: 0.5439610481262207
+  }
+}
+]
