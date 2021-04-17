@@ -42,7 +42,7 @@ bounding_poly {
 }
 , mid: "/m/01g317"
 name: "Person"
-score: 0.7035936117172241
+score: 0.7035937905311584
 bounding_poly {
   normalized_vertices {
     x: 0.8122690320014954
@@ -84,7 +84,7 @@ bounding_poly {
 }
 , mid: "/m/01g317"
 name: "Person"
-score: 0.6860145330429077
+score: 0.6860143542289734
 bounding_poly {
   normalized_vertices {
     x: 0.48690691590309143
@@ -105,7 +105,7 @@ bounding_poly {
 }
 , mid: "/m/01g317"
 name: "Person"
-score: 0.6857509613037109
+score: 0.6857515573501587
 bounding_poly {
   normalized_vertices {
     x: 0.3660614788532257
@@ -126,7 +126,7 @@ bounding_poly {
 }
 , mid: "/m/01g317"
 name: "Person"
-score: 0.6673964858055115
+score: 0.6673969030380249
 bounding_poly {
   normalized_vertices {
     x: 0.2021893411874771
@@ -168,7 +168,7 @@ bounding_poly {
 }
 , mid: "/m/01g317"
 name: "Person"
-score: 0.6532841324806213
+score: 0.6532838344573975
 bounding_poly {
   normalized_vertices {
     x: 0.4373265504837036
@@ -189,7 +189,7 @@ bounding_poly {
 }
 , mid: "/m/01g317"
 name: "Person"
-score: 0.6456796526908875
+score: 0.6456800103187561
 bounding_poly {
   normalized_vertices {
     x: 0.5841568112373352

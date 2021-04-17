@@ -1,6 +1,6 @@
 [mid: "/m/01g317"
 name: "Person"
-score: 0.9028785228729248
+score: 0.9028786420822144
 bounding_poly {
   normalized_vertices {
     x: 0.6416633725166321
@@ -63,7 +63,7 @@ bounding_poly {
 }
 , mid: "/m/01g317"
 name: "Person"
-score: 0.8027845025062561
+score: 0.8027843236923218
 bounding_poly {
   normalized_vertices {
     x: 0.6374018788337708
@@ -105,7 +105,7 @@ bounding_poly {
 }
 , mid: "/m/07mhn"
 name: "Pants"
-score: 0.669390857219696
+score: 0.6693910956382751
 bounding_poly {
   normalized_vertices {
     x: 0.6416911482810974

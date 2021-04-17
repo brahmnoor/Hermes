@@ -28,7 +28,8 @@ def localize_objects(path):
 
     objects = client.object_localization(
         image=image).localized_object_annotations
-    newFile = open('my_project.json', 'a')
+    newFileName = f'{path[:-5]}.json'
+    newFile = open(newFileName, 'w')
     newFile.writelines(objects.__str__())
     print('Number of objects found: {}'.format(len(objects)))
     # for object_ in objects:
@@ -38,6 +39,6 @@ def localize_objects(path):
     #         print(' - ({}, {})'.format(vertex.x, vertex.y))
 
 
-for i in file_list[:5]:
+for i in file_list:
     print(f'\n {i}')
     localize_objects(i)

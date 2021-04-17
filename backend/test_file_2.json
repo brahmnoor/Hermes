@@ -42,7 +42,7 @@ bounding_poly {
 }
 , mid: "/m/09j2d"
 name: "Clothing"
-score: 0.6798856854438782
+score: 0.6798859238624573
 bounding_poly {
   normalized_vertices {
     x: 0.7514182925224304
@@ -84,7 +84,7 @@ bounding_poly {
 }
 , mid: "/m/01g317"
 name: "Person"
-score: 0.6052244901657104
+score: 0.6052247881889343
 bounding_poly {
   normalized_vertices {
     x: 0.11994454264640808
@@ -105,7 +105,7 @@ bounding_poly {
 }
 , mid: "/m/01mzpv"
 name: "Chair"
-score: 0.5775213241577148
+score: 0.5775221586227417
 bounding_poly {
   normalized_vertices {
     x: 0.8771130442619324

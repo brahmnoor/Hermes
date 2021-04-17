@@ -21,7 +21,7 @@ bounding_poly {
 }
 , mid: "/m/01g317"
 name: "Person"
-score: 0.9144286513328552
+score: 0.9144287109375
 bounding_poly {
   normalized_vertices {
     x: 0.7563595771789551
@@ -63,7 +63,7 @@ bounding_poly {
 }
 , mid: "/m/01g317"
 name: "Person"
-score: 0.904849112033844
+score: 0.9048489928245544
 bounding_poly {
   normalized_vertices {
     x: 0.6430772542953491
@@ -84,7 +84,7 @@ bounding_poly {
 }
 , mid: "/m/0hf58v5"
 name: "Luggage & bags"
-score: 0.6310290098190308
+score: 0.6310291886329651
 bounding_poly {
   normalized_vertices {
     x: 0.01589335687458515
@@ -126,7 +126,7 @@ bounding_poly {
 }
 , mid: "/m/03gx245"
 name: "Top"
-score: 0.5275181531906128
+score: 0.5275184512138367
 bounding_poly {
   normalized_vertices {
     x: 0.649506151676178
