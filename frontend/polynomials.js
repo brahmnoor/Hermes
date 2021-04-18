@@ -1,4 +1,6 @@
-Sample = {"polynomials": [ 
+// IRRELEVANT
+
+Sample = {"polynomials": [
       {
         "vertices": [
           {
