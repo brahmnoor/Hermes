@@ -12,6 +12,7 @@ from google.cloud import vision
 from PIL import Image
 
 from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 
 # Instantiates a client
 client = vision.ImageAnnotatorClient()
@@ -73,6 +74,12 @@ app.add_middleware(
 )
 
 app.mount("/static", StaticFiles(directory="static"), name="static")
+
+parent_dir_path = os.path.dirname(os.path.realpath(__file__))
+
+@app.get('/')
+def index():
+  return FileResponse(parent_dir_path + '/static/frontend/index.html')
 
 
 
