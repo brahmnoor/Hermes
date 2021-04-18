@@ -39,19 +39,18 @@ function printMousePos(event) {
 
 
 
-var specifiedElement = document.getElementById('notAllowed');
+var personBox = document.getElementById('notAllowed');
+var imageBox = document.getElementById('imageBox');
 //I'm using "click" but it works with any event
 document.addEventListener('click', function(event) {
-  var isClickInside = specifiedElement.contains(event.target);
-  if (isClickInside) {
-    //alert('You clicked inside A')
-  } else {
-    alert('You clicked outside A')
+  var isClickOutside = personBox.contains(event.target);//Outside area around a person
+  var isClickInside = imageBox.contains(event.target);//But bounded inside the image
+  if (isClickInside && !(isClickOutside)) {
     printMousePos(event);
     console.log(validClickCoords);
+  } else {
+    //alert('You clicked outside A')
+    
   }
 });
-
-
-
 
