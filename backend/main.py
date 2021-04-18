@@ -7,6 +7,9 @@ import os
 # Imports the Google Cloud client library
 from google.cloud import vision
 
+# import the image module
+from PIL import Image
+
 # Instantiates a client
 client = vision.ImageAnnotatorClient()
 
@@ -17,7 +20,8 @@ class Vertex(BaseModel):
 class BoundingPolynomial(BaseModel):
     vertices : List[Vertex]
 
-class BoundingPolynomials(BaseModel):
+class ImageWithBoundingBox(BaseModel):
+    image_id : int
     polynomials : List[BoundingPolynomial]
 
 
@@ -55,7 +59,7 @@ def localize_objects(path):
 app = FastAPI()
 
 
-@app.get("/getStadium/{ticket_id}", response_model = BoundingPolynomials)
+@app.get("/getStadium/{ticket_id}", response_model = ImageWithBoundingBox)
 def root(ticket_id):
     # Get the image associated with the ticket_id and store it in the image_number
     image_number = 0 # between 0 and 5
@@ -67,18 +71,19 @@ def root(ticket_id):
     
     image = vision.Image(content=content)
 
+    with Image.open(path) as pImage:
+        width, height = pImage.size
+
     objects = client.object_localization(
         image=image).localized_object_annotations
 
-    bounding_polynomials = BoundingPolynomials(polynomials = [])
+    bounding_polynomials = ImageWithBoundingBox(image_id = image_number, polynomials = [])
 
     for object_ in objects:
         if object_.name in bounding_labels:
             bounding_polynomial = BoundingPolynomial(vertices = [])
             for v in object_.bounding_poly.normalized_vertices:
-                bounding_polynomial.vertices.append(Vertex(x = v.x, y = v.y))
+                bounding_polynomial.vertices.append(Vertex(x = width*v.x, y = height*v.y))
             bounding_polynomials.polynomials.append(bounding_polynomial)
 
     return bounding_polynomials
-
-
