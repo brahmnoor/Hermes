@@ -23,12 +23,12 @@ class Vertex(BaseModel):
     x : float
     y : float
 
-class BoundingPolynomial(BaseModel):
+class BoundingRectangle(BaseModel):
     vertices : List[Vertex]
 
 class ImageWithBoundingBox(BaseModel):
     image_url : str
-    polynomials : List[BoundingPolynomial]
+    rectangles : List[BoundingRectangle]
 
 
 
@@ -94,13 +94,13 @@ def root(ticket_id):
     objects = client.object_localization(
         image=image).localized_object_annotations
 
-    bounding_polynomials = ImageWithBoundingBox(image_url = host_url + "static/test_file_" + str(image_number) + ".jpeg", polynomials = [])
+    response = ImageWithBoundingBox(image_url = host_url + "static/test_file_" + str(image_number) + ".jpeg", rectangles = [])
 
     for object_ in objects:
         if object_.name in bounding_labels:
-            bounding_polynomial = BoundingPolynomial(vertices = [])
+            bounding_rectangle = BoundingRectangle(vertices = [])
             for v in object_.bounding_poly.normalized_vertices:
-                bounding_polynomial.vertices.append(Vertex(x = width*v.x, y = height*v.y))
-            bounding_polynomials.polynomials.append(bounding_polynomial)
+                bounding_rectangle.vertices.append(Vertex(x = v.x, y = v.y))
+            response.rectangles.append(bounding_rectangle)
 
-    return bounding_polynomials
+    return response

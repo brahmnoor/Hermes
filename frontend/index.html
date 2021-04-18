@@ -120,8 +120,9 @@
   function onCallBack(ticketID, data) {
     $("#loading").hide();
     $("#imageCanvas").show();
-    drawBackground(app.stage, data.image_url);
     console.log(data);
+    drawBackground(app.stage, data.image_url);
+    drawRectanges(app.stage, data.rectangles);
   }
 </script>
 </body>
