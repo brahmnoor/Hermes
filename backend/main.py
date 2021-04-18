@@ -11,6 +11,8 @@ from google.cloud import vision
 # import the image module
 from PIL import Image
 
+from fastapi.staticfiles import StaticFiles
+
 # Instantiates a client
 client = vision.ImageAnnotatorClient()
 
@@ -34,7 +36,7 @@ file_list = []
 
 for i in range(6):
     # The name of the image file to annotate
-    createdFileName = f'test_file_{i}.jpeg'
+    createdFileName = f'static/test_file_{i}.jpeg'
     file_name = os.path.abspath(createdFileName)
     file_list.append(file_name)
 
@@ -70,6 +72,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+app.mount("/static", StaticFiles(directory="static"), name="static")
+
+
 
 @app.get("/getStadium/{ticket_id}", response_model = ImageWithBoundingBox)
 def root(ticket_id):
@@ -89,7 +94,7 @@ def root(ticket_id):
     objects = client.object_localization(
         image=image).localized_object_annotations
 
-    bounding_polynomials = ImageWithBoundingBox(image_url = host_url + "test_file_" + str(image_number) + ".jpeg", polynomials = [])
+    bounding_polynomials = ImageWithBoundingBox(image_url = host_url + "static/test_file_" + str(image_number) + ".jpeg", polynomials = [])
 
     for object_ in objects:
         if object_.name in bounding_labels:

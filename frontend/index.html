@@ -7,6 +7,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://unpkg.com/popper.js@1.12.6/dist/umd/popper.js" integrity="sha384-fA23ZRQ3G/J53mElWqVJEGJzU0sTs+SvzG8fXVWP+kJQ1lwFAOkcUOysnlKJC33U" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js" integrity="sha384-CauSuKpEqAFajSpkdjv3z9t8E7RlpJ1UP0lKM/+NdtSarroVKu069AlsRPKkFBz9" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/4.8.4/pixi.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <style>
       body {
@@ -31,7 +32,7 @@
             </div>
             <div class="col-sm-10" style="text-align: center;">
               <img src="img/Logo_ver_2.png" style="max-height: 200px;">
-              <h5 style="margin-bottom: 100px; margin-top: 50px;">Programmatically generated paths to keep you socially distanced</h5>
+              <h5 style="margin-bottom: 100px; margin-top: 50px;">Programmatically generated paths to keep you socially distanced.</h5>
             </div>
             <div class="col-sm-1">
             </div>
@@ -63,7 +64,7 @@
             <div class="col-sm-10" style="text-align: center;">
               <img src="img/onlyLogo_version_cropped.png" style="max-height: 145px; margin-top: 55px; animation: slide 1.5s infinite linear;">
               <h5 style="margin-top: 50px;">
-                Processing ticket ID and doing the magic
+                Processing ticket ID and doing the magic.
               </h5>
             </div>
             <div class="col-sm-1">
@@ -79,16 +80,11 @@
             </div>
             <div class="col-sm-10" style="text-align: center;">
               <a href="/">
-                <img src="text.png" style="margin: 50px 0;">
+                <img src="img/Logo_ver_2.png" style="margin: 50px 0;">
               </a>
               <div style="margin-bottom: 20px;"id="playa"></div>
 
-              <div class="alert alert-success" role="alert">
-                Success! The important sections of the video are given
-                below.
-              </div>
-
-              <div id="timestamps"></div>
+              <div id="pixi"></div>
             </div>
             <div class="col-sm-1">
             </div>
@@ -98,25 +94,35 @@
 
 
     </main>
-        <script>
-          $("#loading").hide();
-          $("#imageCanvas").hide();
+<script src="draw.js"></script>
+<script>
+  $("#loading").hide();
+  $("#imageCanvas").hide();
 
-          function startQuery() { 
-              $.ajax({
-                url: "http://127.0.0.1:8000/getStadium/" + $("#ticketid").val() + "/",
-                type: "GET",
-                success: function(data) { onCallBack($("#ticketid").val(), data)}
-              });
-              $("#inpForm").hide();
-              $("#loading").show();
-          };
+  const app = new PIXI.Application({
+    width: 600,
+    height: 340,
+    antialias: true
+  })
+  document.getElementById("pixi").appendChild(app.view)
+  app.view.style.width = '90%';
 
-          function onCallBack(ticketID, data) {
-            $("#loading").hide();
-            $("#imageCanvas").show();
-            console.log(data);
-          }
-        </script>
+  function startQuery() { 
+      $.ajax({
+        url: "http://127.0.0.1:8000/getStadium/" + $("#ticketid").val() + "/",
+        type: "GET",
+        success: function(data) { onCallBack($("#ticketid").val(), data)}
+      });
+      $("#inpForm").hide();
+      $("#loading").show();
+  };
+
+  function onCallBack(ticketID, data) {
+    $("#loading").hide();
+    $("#imageCanvas").show();
+    drawBackground(app.stage, data.image_url);
+    console.log(data);
+  }
+</script>
 </body>
 </html>
