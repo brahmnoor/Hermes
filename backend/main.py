@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List, Optional
 import io
@@ -13,6 +14,9 @@ from PIL import Image
 # Instantiates a client
 client = vision.ImageAnnotatorClient()
 
+# Change this
+host_url = "http://127.0.0.1:8000/"
+
 class Vertex(BaseModel):
     x : float
     y : float
@@ -21,7 +25,7 @@ class BoundingPolynomial(BaseModel):
     vertices : List[Vertex]
 
 class ImageWithBoundingBox(BaseModel):
-    image_id : int
+    image_url : str
     polynomials : List[BoundingPolynomial]
 
 
@@ -58,6 +62,14 @@ def localize_objects(path):
 
 app = FastAPI()
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 @app.get("/getStadium/{ticket_id}", response_model = ImageWithBoundingBox)
 def root(ticket_id):
@@ -77,7 +89,7 @@ def root(ticket_id):
     objects = client.object_localization(
         image=image).localized_object_annotations
 
-    bounding_polynomials = ImageWithBoundingBox(image_id = image_number, polynomials = [])
+    bounding_polynomials = ImageWithBoundingBox(image_url = host_url + "test_file_" + str(image_number) + ".jpeg", polynomials = [])
 
     for object_ in objects:
         if object_.name in bounding_labels:

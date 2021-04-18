@@ -1,199 +1,122 @@
 <html>
-        <head>
-                <title>Hermes - Path Finder</title>
-                <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons">
-                <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-                <link rel="stylesheet" href="https://unpkg.com/bootstrap-material-design@4.1.1/dist/css/bootstrap-material-design.min.css" integrity="sha384-wXznGJNEXNG1NFsbm0ugrLFMQPWswR3lds2VeinahP8N0zJw9VWSopbjv2x7WCvX" crossorigin="anonymous">
-                <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-                <script src="https://unpkg.com/popper.js@1.12.6/dist/umd/popper.js" integrity="sha384-fA23ZRQ3G/J53mElWqVJEGJzU0sTs+SvzG8fXVWP+kJQ1lwFAOkcUOysnlKJC33U" crossorigin="anonymous"></script>
-                <script src="https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js" integrity="sha384-CauSuKpEqAFajSpkdjv3z9t8E7RlpJ1UP0lKM/+NdtSarroVKu069AlsRPKkFBz9" crossorigin="anonymous"></script>
-                <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-                <!-- <script src= "https://player.twitch.tv/js/embed/v1.js"></script> -->
-                <style>
-                @keyframes rotation {
-                from {
-                  transform: rotate(0deg);
-                }
-                to {
-                  transform: rotate(359deg);
-                }
-              }
-              </style>
-        </head>
-        <body>
-          <main>
-            <div id="inpForm">
-              <div class="container">
-                <div class="row">
-                  <div class="col-sm-1">
-                  </div>
-                  <div class="col-sm-10" style="text-align: center;">
-                    <img src="img/Logo.png" style="max-height: 200px;">
-                    <h5 style="margin-bottom: 100px; margin-top: 50px;">Programmatically generated paths to keep you socially distanced</h5>
-                  </div>
-                  <div class="col-sm-1">
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-sm-1">
-                  </div>
-                  <div class="col-sm-7">
-                    <div class="form-group">
-                      <input type="number" placeholder="392794181" id="ticketid" class="form-control">
-                      <small class="form-text text-muted">Ticket ID</small>
-                    </div>
-                  </div>
-                    <div class="col-sm-3">
-                      <a href="clickable.html"><button class="btn btn-lg btn-raised btn-primary" onclick="startQuery();">Select Seats</button></a>
-                    </div>
-                    <div class="col-sm-1">
-                    </div>
-                </div>
+  <head>
+    <title>Hermes - Socially Distant Path Finder</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/bootstrap-material-design@4.1.1/dist/css/bootstrap-material-design.min.css" integrity="sha384-wXznGJNEXNG1NFsbm0ugrLFMQPWswR3lds2VeinahP8N0zJw9VWSopbjv2x7WCvX" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://unpkg.com/popper.js@1.12.6/dist/umd/popper.js" integrity="sha384-fA23ZRQ3G/J53mElWqVJEGJzU0sTs+SvzG8fXVWP+kJQ1lwFAOkcUOysnlKJC33U" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js" integrity="sha384-CauSuKpEqAFajSpkdjv3z9t8E7RlpJ1UP0lKM/+NdtSarroVKu069AlsRPKkFBz9" crossorigin="anonymous"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <style>
+      body {
+        padding-top: 150px;
+      }
+      @keyframes rotation {
+        from {
+          transform: rotate(0deg);
+        }
+        to {
+          transform: rotate(359deg);
+        }
+      }
+  </style>
+  </head>
+  <body>
+    <main>
+      <div id="inpForm">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-1">
+            </div>
+            <div class="col-sm-10" style="text-align: center;">
+              <img src="img/Logo.png" style="max-height: 200px;">
+              <h5 style="margin-bottom: 100px; margin-top: 50px;">Programmatically generated paths to keep you socially distanced</h5>
+            </div>
+            <div class="col-sm-1">
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-1">
+            </div>
+            <div class="col-sm-7">
+              <div class="form-group">
+                <input type="number" placeholder="392794181" id="ticketid" class="form-control">
+                <small class="form-text text-muted">Ticket ID</small>
               </div>
             </div>
-
-
-            <!-- <div id="loading">
-              <div class="container">
-                <div class="row">
-                  <div class="col-sm-1">
-                  </div>
-                  <div class="col-sm-10" style="text-align: center;">
-                    <img src="reelblue.png" style="max-height: 145px; margin-top: 55px; animation: rotation 2s infinite linear;">
-                    <h5 style="margin-top: 50px;">
-                      Downloading and Processing Chat Log
-                    </h5>
-                  </div>
-                  <div class="col-sm-1">
-                  </div>
-                </div>
+              <div class="col-sm-3">
+                <button class="btn btn-lg btn-raised btn-primary" onclick="startQuery();">Select Seats</button></a>
               </div>
+              <div class="col-sm-1">
+              </div>
+          </div>
+        </div>
+      </div>
+
+
+      <div id="loading">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-1">
             </div>
+            <div class="col-sm-10" style="text-align: center;">
+              <img src="reelblue.png" style="max-height: 145px; margin-top: 55px; animation: rotation 2s infinite linear;">
+              <h5 style="margin-top: 50px;">
+                Processing Ticket ID and doing the Magic
+              </h5>
+            </div>
+            <div class="col-sm-1">
+            </div>
+          </div>
+        </div>
+      </div>
 
-            <div id="twitch">
-              <div class="container">
-                <div class="row">
-                  <div class="col-sm-1">
-                  </div>
-                  <div class="col-sm-10" style="text-align: center;">
-                    <a href="/">
-                      <img src="text.png" style="margin: 50px 0;">
-                    </a>
-                    <div style="margin-bottom: 20px;"id="playa"></div>
+      <div id="imageCanvas">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-1">
+            </div>
+            <div class="col-sm-10" style="text-align: center;">
+              <a href="/">
+                <img src="text.png" style="margin: 50px 0;">
+              </a>
+              <div style="margin-bottom: 20px;"id="playa"></div>
 
-                    <div class="alert alert-success" role="alert">
-                      Success! The important sections of the video are given
-                      below.
-                    </div>
-
-                    <div id="timestamps"></div>
-                  </div>
-                  <div class="col-sm-1">
-                  </div>
-                </div>
+              <div class="alert alert-success" role="alert">
+                Success! The important sections of the video are given
+                below.
               </div>
-            </div> -->
+
+              <div id="timestamps"></div>
+            </div>
+            <div class="col-sm-1">
+            </div>
+          </div>
+        </div>
+      </div>
 
 
-        </main>
+    </main>
         <script>
-              // $("#loading").hide();
-              //   // $("#inpForm").hide();
-              //   $("#twitch").hide();
-              //   var videoID = "392794181";
-              //   var timestamps = [[100, 110], [360, 362], [560, 600]];
-              //   var player;
-              //   var clicked = 0;
-              //   // onCallBack(videoID, timestamps);
-              //   function getCookie(name) {
-              //       var cookieValue = null;
-              //       if (document.cookie && document.cookie !== '') {
-              //           var cookies = document.cookie.split(';');
-              //           for (var i = 0; i < cookies.length; i++) {
-              //               var cookie = jQuery.trim(cookies[i]);
-              //               // Does this cookie string begin with the name we want?
-              //               if (cookie.substring(0, name.length + 1) === (name + '=')) {
-              //                   cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
-              //                   break;
-              //               }
-              //           }
-              //       }
-              //       return cookieValue;
-              //   }
-                function startQuery() {
-                  var ticketID = document.getElementById("ticketid").value;
-                }
+          $("#loading").hide();
+          $("#imageCanvas").hide();
 
+          function startQuery() { 
+              $.ajax({
+                url: "http://127.0.0.1:8000/getStadium/" + $("#ticketid").val() + "/",
+                type: "GET",
+                success: function(data) { onCallBack($("#ticketid").val(), data)}
+              });
+              $("#inpForm").hide();
+              $("#loading").show();
+          };
 
-
-                // function onCallBack(videoID, timeArray) {
-                //         $("#loading").hide();
-                //         $("#twitch").show();
-                //         var options = {
-                //           width: 600,
-                //           height: 300,
-                //           video: videoID,
-                //         };
-                //         var timeZero = -1; // initial time
-                //         player = new Twitch.Player("playa", options);
-                //         timeArray.forEach(function(time) {
-                //           if (timeZero == -1)
-                //             timeZero = time[0];
-                //           var timeStart = time[0];
-                //           var timeEnd = time[1];
-                //           var b = document.createElement("button");
-                //           b.className += " btn btn-outline-primary";
-                //           b.style.marginRight = "10px";
-                //           b.timeStart = timeStart;
-                //           b.timeEnd = timeEnd;
-                //           var date = new Date(null);
-                //           date.setSeconds(timeStart); // specify value for SECONDS here
-                //           var result = date.toISOString().substr(11, 8);
-                //           b.innerHTML = result;
-                //           b.addEventListener("click", function() {
-                //             clicked = 1;
-                //             player.seek(timeStart);
-                //           });
-                //           document.getElementById("timestamps").appendChild(b);
-                //         });
-                //
-                //         // document.getElementById("timestamps").childNodes[0].click();
-                //
-                //         player.setQuality(player.getQualities(4));
-                //
-                //         //player.seek(document.getElementById("timestamps").childNodes[0].timeStart);
-                //
-                //         //console.log(document.getElementById("timestamps").childNodes[0].timeStart);
-                //
-                //         window.setInterval(runEverySec, 1000);
-                // }
-
-                // var lastButton = 0;
-                //
-                // function runEverySec() {
-                //   if (clicked == 1) {
-                //     var cTime = player.getCurrentTime();
-                //     var insideATime = 0;
-                //     var count = 0;
-                //     var childNodes = document.getElementById("timestamps").childNodes;
-                //     for (var i = 0; i < childNodes.length; i++) {
-                //         if (childNodes[i].timeStart < cTime && childNodes[i].timeEnd > cTime) {
-                //           insideATime = 1;
-                //           childNodes[i].className = "btn btn-raised btn-primary";
-                //           lastButton = i;
-                //         }
-                //         if (!(childNodes[i].timeStart < cTime && childNodes[i].timeEnd > cTime)) {
-                //           childNodes[i].className = "btn btn-outline-primary";
-                //           count += 1;
-                //         }
-                //     };
-                //     if (count == childNodes.length) {
-                //       if (lastButton < lastButton.length - 1);
-                //       console.log(lastButton + 1);
-                //       player.seek(childNodes[lastButton + 1].timeStart);
-                //     }
-                //   }
-                // }
+          function onCallBack(ticketID, data) {
+            $("#loading").hide();
+            $("#imageCanvas").show();
+            console.log(data);
+          }
         </script>
 </body>
 </html>
