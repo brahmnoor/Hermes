@@ -6,13 +6,12 @@ from google.cloud import vision
 
 # Instantiates a client
 client = vision.ImageAnnotatorClient()
-client.max_results = 50
 
 file_list = []
 
-for i in range(6):
+for i in range(8):
     # The name of the image file to annotate
-    createdFileName = f'test_file_{i}.jpeg'
+    createdFileName = f'static\/test_file_{i}.jpeg'
     file_name = os.path.abspath(createdFileName)
     file_list.append(file_name)
 
@@ -27,7 +26,7 @@ def localize_objects(path):
     image = vision.Image(content=content)
 
     objects = client.object_localization(
-        image=image).localized_object_annotations
+        image=image, max_results = 20).localized_object_annotations
     newFileName = f'{path[:-5]}.json'
     newFile = open(newFileName, 'w')
     newFile.writelines(objects.__str__())
