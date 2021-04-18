@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>HTML area Tag</title>
+      <title>Navigation</title>
       <style>
       .container {
         height: 200px;
@@ -12,16 +12,35 @@
       .center {
         margin: 0;
         position: absolute;
-        top: 50%;
+        top: 47%;
         left: 50%;
         -ms-transform: translate(-50%, -50%);
         transform: translate(-50%, -50%);
+      }
+
+      .header img {
+        float: left;
+        width: 100px;
+        height: 100px;
+        background: #555;
+      }
+
+      .header h3 {
+        float: left;
+        position: relative;
+        top: 18px;
+        left: 0px;
       }
   </style>
    </head>
 
    <body>
+    <div class="header">
+      <img src="img/onlyLogo.png" style="max-height: 100px;">
+      <h3>HERMES</h3>
+    </div>
      <div class="center">
+       <h1>Click the spot where you want to navigate to</h1>
        <img src = "test_file_0.jpeg" alt = "usemap" usemap = "#lessons" />
      </div>
       <map id = "mapID" name = "lessons">
