@@ -8,6 +8,7 @@
     <script src="https://unpkg.com/popper.js@1.12.6/dist/umd/popper.js" integrity="sha384-fA23ZRQ3G/J53mElWqVJEGJzU0sTs+SvzG8fXVWP+kJQ1lwFAOkcUOysnlKJC33U" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js" integrity="sha384-CauSuKpEqAFajSpkdjv3z9t8E7RlpJ1UP0lKM/+NdtSarroVKu069AlsRPKkFBz9" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/4.8.4/pixi.min.js"></script>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"> 
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <style>
       body {
@@ -80,8 +81,9 @@
             </div>
             <div class="col-sm-10" style="text-align: center;">
               <a href="/">
-                <img src="/static/frontend/img/Logo_ver_2.png" style="margin: 50px 0;">
+                <img src="/static/frontend/img/Logo_ver_2.png">
               </a>
+              <h5 id="helper">Select where you are right now on the map given below.</h5>
               <div style="margin-bottom: 20px;"id="playa"></div>
 
               <div id="pixi"></div>
@@ -94,6 +96,7 @@
 
 
     </main>
+<!-- <script src="/static/frontend/path.js"></script> -->
 <script src="/static/frontend/draw.js"></script>
 <script>
   $("#loading").hide();
@@ -106,6 +109,8 @@
   })
   document.getElementById("pixi").appendChild(app.view)
   app.view.style.width = '90%';
+  app.stage.interactive = true;
+  app.stage.on('pointerdown', pointerDownEvent);
 
   function startQuery() { 
       $.ajax({
@@ -117,12 +122,16 @@
       $("#loading").show();
   };
 
+  function pointerDownEvent(event) {
+    pointerDown(app.stage, event);
+  }
+
   function onCallBack(ticketID, data) {
     $("#loading").hide();
     $("#imageCanvas").show();
     console.log(data);
     drawBackground(app.stage, data.image_url);
-    drawRectanges(app.stage, data.rectangles);
+    drawRectangles(app.stage, data.rectangles);
   }
 </script>
 </body>
